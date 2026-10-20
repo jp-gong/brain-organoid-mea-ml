@@ -1,0 +1,29 @@
+{
+  "lineage": {
+    "training_bundle_sha256": "ad49200d44f26bee3ab5b00e4d2f40388f96fb161f3c100365135b7f24a8f91d",
+    "training_artifact_sha256": "fb15784059bca2e5abdbcb862f5e294bc6367b925e3ac018604835ef1b4c8f09",
+    "selected_model": "XGBoost",
+    "selected_feature_set": "mean+delta",
+    "n_repeats": 3,
+    "outer_n_splits": 5,
+    "training_random_state": 0,
+    "training_protocol_hash": "27095560ff27d67e390d6ef30ae1b05f"
+  },
+  "training_random_state": 0,
+  "selected_model_name": "XGBoost",
+  "selected_feature_set": "mean+delta",
+  "n_repeats": 3,
+  "outer_n_splits": 5,
+  "n_unique_wells": 90,
+  "analysis_scope": "leave_one_family_out_and_family_only",
+  "n_feature_families": 5,
+  "n_family_subsets": 10,
+  "tuning_budget": {
+    "n_init": 8,
+    "n_iter": 16
+  },
+  "protocol_key": "f938edcb13bbdb6ac22d074842a8f39d",
+  "selection": "each predefined family subset is retuned by inner-CV AUROC within outer training data",
+  "aggregation": "average each well's 3 OOF probabilities; also export each repeat separately",
+  "inference_scope": "exploratory after selected algorithm/representation; no full model-selection correction"
+}

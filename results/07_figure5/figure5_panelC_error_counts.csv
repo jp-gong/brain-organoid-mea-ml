@@ -1,0 +1,6 @@
+feature_family,n_errors,n_wells,decision_threshold
+burst,27,90,0.5
+burst_timing,17,90,0.5
+network_burst,21,90,0.5
+spike_activity,23,90,0.5
+synchrony_correlation,10,90,0.5

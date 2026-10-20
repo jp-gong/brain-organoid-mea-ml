@@ -1,0 +1,45 @@
+raw_feature,feature_family,parent_metric,n_missing_base_raw,n_missing_treat_raw,zero_fill_rule,retained_for_primary_analysis
+Burst Duration - Avg (s),burst,Number of Bursts,8,26,fill_missing_with_0,True
+Burst Duration - Std (s),burst,Number of Bursts,14,27,fill_missing_with_0,True
+Burst Frequency - Avg (Hz),burst,Number of Bursts,8,26,fill_missing_with_0,True
+Burst Frequency - Std (Hz),burst,Number of Bursts,14,27,fill_missing_with_0,True
+Burst Percentage - Avg,burst,Number of Bursts,0,4,fill_missing_with_0,True
+Burst Percentage - Std,burst,Number of Bursts,1,8,fill_missing_with_0,True
+Mean ISI within Burst - Avg,burst_timing,Number of Bursts,8,26,fill_missing_with_0,True
+Mean ISI within Burst - Std,burst_timing,Number of Bursts,14,27,fill_missing_with_0,True
+Median ISI within Burst - Avg,burst_timing,Number of Bursts,8,26,fill_missing_with_0,True
+Median ISI within Burst - Std,burst_timing,Number of Bursts,14,27,fill_missing_with_0,True
+Number of Bursting Electrodes,burst,,0,0,fill_missing_with_0,True
+Number of Bursts,burst,,0,0,fill_missing_with_0,True
+Number of Spikes per Burst - Avg,burst,Number of Bursts,8,26,fill_missing_with_0,True
+Number of Spikes per Burst - Std,burst,Number of Bursts,14,27,fill_missing_with_0,True
+Network Burst Duration - Avg (sec),network_burst,Number of Network Bursts,60,75,fill_missing_with_0,True
+Network Burst Duration - Std (sec),network_burst,Number of Network Bursts,67,79,fill_missing_with_0,True
+Network Burst Frequency (Hz),network_burst,Number of Network Bursts,60,75,fill_missing_with_0,True
+Network Burst Percentage,network_burst,Number of Network Bursts,60,75,fill_missing_with_0,True
+Number of Elecs Participating in Burst - Avg,network_burst,Number of Network Bursts,60,75,fill_missing_with_0,True
+Number of Elecs Participating in Burst - Std,network_burst,Number of Network Bursts,67,79,fill_missing_with_0,True
+Number of Network Bursts,network_burst,,0,0,fill_missing_with_0,True
+Number of Spikes per Network Burst - Avg,network_burst,Number of Network Bursts,60,75,fill_missing_with_0,True
+Number of Spikes per Network Burst - Std,network_burst,Number of Network Bursts,67,79,fill_missing_with_0,True
+Number of Spikes per Network Burst per Channel - Avg,network_burst,Number of Network Bursts,60,75,fill_missing_with_0,True
+Number of Spikes per Network Burst per Channel - Std,network_burst,Number of Network Bursts,67,79,fill_missing_with_0,True
+Network Normalized Duration IQR,network_burst,Number of Network Bursts,73,84,fill_missing_with_0,True
+Normalized Duration IQR - Avg,burst_timing,Number of Bursts,30,35,fill_missing_with_0,True
+Normalized Duration IQR - Std,burst_timing,Number of Bursts,41,46,fill_missing_with_0,True
+Mean Firing Rate (Hz),spike_activity,,0,0,fill_missing_with_0,True
+Number of Active Electrodes,spike_activity,,0,0,fill_missing_with_0,True
+Number of Spikes,spike_activity,,0,0,fill_missing_with_0,True
+Weighted Mean Firing Rate (Hz),spike_activity,,1,13,fill_missing_with_0,True
+Area Under Cross-Correlation,synchrony_correlation,Number of Active Electrodes,1,8,fill_missing_with_0,True
+Area Under Normalized Cross-Correlation,synchrony_correlation,Number of Active Electrodes,1,8,fill_missing_with_0,True
+Synchrony Index,synchrony_correlation,Number of Active Electrodes,1,8,fill_missing_with_0,True
+Width at Half Height of Cross-Correlation,synchrony_correlation,Number of Active Electrodes,1,8,fill_missing_with_0,True
+Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,Number of Active Electrodes,1,8,fill_missing_with_0,True
+IBI Coefficient of Variation - Avg,burst_timing,Number of Bursts,25,34,fill_missing_with_0,True
+IBI Coefficient of Variation - Std,burst_timing,Number of Bursts,34,44,fill_missing_with_0,True
+ISI Coefficient of Variation - Avg,burst_timing,Number of Bursts,1,13,fill_missing_with_0,True
+Inter-Burst Interval - Avg (s),burst_timing,Number of Bursts,17,31,fill_missing_with_0,True
+Inter-Burst Interval - Std (s),burst_timing,Number of Bursts,22,38,fill_missing_with_0,True
+Network IBI Coefficient of Variation,burst_timing,Number of Network Bursts,70,81,fill_missing_with_0,True
+Network ISI Coefficient of Variation,burst_timing,Number of Network Bursts,1,13,fill_missing_with_0,True

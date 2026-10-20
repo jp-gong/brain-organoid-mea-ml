@@ -1,0 +1,1081 @@
+sample_index,group_id,class,pair_stem,well,y_true,feature_name,feature_family,feature_value,shap_value,n_repeats
+0,POS01,Positive,POS01,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.8044529999999996,-0.015453097655403389,3
+0,POS01,Positive,POS01,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-99.0,0.0,3
+0,POS01,Positive,POS01,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-36.0,0.031587658377571236,3
+0,POS01,Positive,POS01,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.08410300000000001,0.014721495492590808,3
+0,POS01,Positive,POS01,A1,1,Mean::Burst Duration - Avg (s),burst,0.068301,-0.002793485140083013,3
+0,POS01,Positive,POS01,A1,1,Mean::Burst Percentage - Std,burst,18.859847,0.006720734905037606,3
+0,POS01,Positive,POS01,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.004553,-0.03225795340344862,3
+0,POS01,Positive,POS01,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.001789,-0.0029099866885829856,3
+0,POS01,Positive,POS01,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.7635834999999997,-0.011690987087786193,3
+0,POS01,Positive,POS01,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.201098,9.008416285117468e-05,3
+0,POS01,Positive,POS01,A1,1,Mean::Number of Active Electrodes,spike_activity,12.5,0.0033037595105943882,3
+0,POS01,Positive,POS01,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.4885945,-0.009212529773099547,3
+1,POS01,Positive,POS01,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.399491,-0.009436326618823737,3
+1,POS01,Positive,POS01,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-148.0,0.0,3
+1,POS01,Positive,POS01,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-53.0,0.025279325508960986,3
+1,POS01,Positive,POS01,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0219705,0.12205602213809336,3
+1,POS01,Positive,POS01,A2,1,Mean::Burst Duration - Avg (s),burst,0.087573,-0.0016900021858789248,3
+1,POS01,Positive,POS01,A2,1,Mean::Burst Percentage - Std,burst,19.623322,0.005148344890524935,3
+1,POS01,Positive,POS01,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0072215,-0.01876988679308582,3
+1,POS01,Positive,POS01,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.00293,-0.0018325756648900383,3
+1,POS01,Positive,POS01,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.2228525,0.009036779896942555,3
+1,POS01,Positive,POS01,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.2137285,4.909288965993704e-05,3
+1,POS01,Positive,POS01,A2,1,Mean::Number of Active Electrodes,spike_activity,8.5,0.021665864306743495,3
+1,POS01,Positive,POS01,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.2247355,0.00398454928977621,3
+2,POS01,Positive,POS01,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.254149,-0.005680745198494863,3
+2,POS01,Positive,POS01,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-176.0,0.0,3
+2,POS01,Positive,POS01,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-38.0,0.026661110338237547,3
+2,POS01,Positive,POS01,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.027218000000000003,0.12482212460082441,3
+2,POS01,Positive,POS01,A3,1,Mean::Burst Duration - Avg (s),burst,0.0937415,-0.0020930685447873893,3
+2,POS01,Positive,POS01,A3,1,Mean::Burst Percentage - Std,burst,18.7097345,0.004922462020207332,3
+2,POS01,Positive,POS01,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.005209,-0.023316856011472372,3
+2,POS01,Positive,POS01,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.002417,-0.0016755760785330254,3
+2,POS01,Positive,POS01,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.1626195,0.008875679907699425,3
+2,POS01,Positive,POS01,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.1526705,6.203347886050703e-05,3
+2,POS01,Positive,POS01,A3,1,Mean::Number of Active Electrodes,spike_activity,11.0,0.02101845175579742,3
+2,POS01,Positive,POS01,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.657778,-0.004796220265604834,3
+3,POS01,Positive,POS01,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.5959539999999999,-0.005522363012035684,3
+3,POS01,Positive,POS01,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-29.0,0.0,3
+3,POS01,Positive,POS01,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-4.0,0.024443837362169114,3
+3,POS01,Positive,POS01,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.044655,0.11763541171051288,3
+3,POS01,Positive,POS01,B1,1,Mean::Burst Duration - Avg (s),burst,0.1198645,-0.0016200256223479943,3
+3,POS01,Positive,POS01,B1,1,Mean::Burst Percentage - Std,burst,44.922648499999994,-0.0042910892033466595,3
+3,POS01,Positive,POS01,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.011407,0.023350273703949317,3
+3,POS01,Positive,POS01,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0072885,0.0017293840543263549,3
+3,POS01,Positive,POS01,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,4.477551999999999,-0.006739991144449617,3
+3,POS01,Positive,POS01,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.1961905,-6.121870268274524e-05,3
+3,POS01,Positive,POS01,B1,1,Mean::Number of Active Electrodes,spike_activity,8.0,0.02076234784391191,3
+3,POS01,Positive,POS01,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.639583,-0.003944769343016324,3
+4,POS01,Positive,POS01,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-5.74177,-0.013269180583733095,3
+4,POS01,Positive,POS01,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-102.0,0.0,3
+4,POS01,Positive,POS01,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-32.0,0.02920871900256586,3
+4,POS01,Positive,POS01,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0748285,0.048017682990542154,3
+4,POS01,Positive,POS01,B2,1,Mean::Burst Duration - Avg (s),burst,0.061089,-0.002010173971454299,3
+4,POS01,Positive,POS01,B2,1,Mean::Burst Percentage - Std,burst,20.881011,0.00661603021607906,3
+4,POS01,Positive,POS01,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.004209,-0.02729385735605051,3
+4,POS01,Positive,POS01,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0029175,-0.0025608999275223013,3
+4,POS01,Positive,POS01,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,3.778234,-0.010111975321477206,3
+4,POS01,Positive,POS01,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0693355,6.717349644060714e-05,3
+4,POS01,Positive,POS01,B2,1,Mean::Number of Active Electrodes,spike_activity,9.5,0.022860299561310693,3
+4,POS01,Positive,POS01,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.2875,-0.007742629362339226,3
+5,POS01,Positive,POS01,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.584045,-0.015193044428748111,3
+5,POS01,Positive,POS01,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-15.0,0.0,3
+5,POS01,Positive,POS01,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-13.0,0.03144709323705346,3
+5,POS01,Positive,POS01,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0864505,-0.05013854705418149,3
+5,POS01,Positive,POS01,B3,1,Mean::Burst Duration - Avg (s),burst,0.128649,-0.001675005436495497,3
+5,POS01,Positive,POS01,B3,1,Mean::Burst Percentage - Std,burst,34.250254,-0.007198699194661998,3
+5,POS01,Positive,POS01,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0160655,0.03066329456589839,3
+5,POS01,Positive,POS01,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.005491,0.0024152173315761262,3
+5,POS01,Positive,POS01,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,4.2256115,-0.011373337679025201,3
+5,POS01,Positive,POS01,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.388443,0.0003276296028936328,3
+5,POS01,Positive,POS01,B3,1,Mean::Number of Active Electrodes,spike_activity,15.0,-0.030343539267778396,3
+5,POS01,Positive,POS01,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.6122685,-0.007728862289891212,3
+6,POS02,Positive,POS02,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.8040479999999999,0.012014473396939807,3
+6,POS02,Positive,POS02,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,0.0,-0.012481212050705728,3
+6,POS02,Positive,POS02,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-2.0,-0.013596681662817934,3
+6,POS02,Positive,POS02,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.041699,0.1082812862350019,3
+6,POS02,Positive,POS02,A1,1,Mean::Burst Duration - Avg (s),burst,0.1147775,-0.01799371725603662,3
+6,POS02,Positive,POS02,A1,1,Mean::Burst Percentage - Std,burst,42.2691385,-0.018610098183637958,3
+6,POS02,Positive,POS02,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0092355,0.00988416449097848,3
+6,POS02,Positive,POS02,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0046625,0.0006020602019917637,3
+6,POS02,Positive,POS02,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,11.560346,-0.04386633005795173,3
+6,POS02,Positive,POS02,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.418153,0.006505216552048095,3
+6,POS02,Positive,POS02,A1,1,Mean::Number of Active Electrodes,spike_activity,15.5,-0.07946081351816518,3
+6,POS02,Positive,POS02,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.1195965,0.004508359929874402,3
+7,POS02,Positive,POS02,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,2.7028599999999994,0.01221678429886837,3
+7,POS02,Positive,POS02,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,5.0,-0.01589441729355948,3
+7,POS02,Positive,POS02,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-16.0,0.05072621149399007,3
+7,POS02,Positive,POS02,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1060675,-0.14447366813870352,3
+7,POS02,Positive,POS02,A2,1,Mean::Burst Duration - Avg (s),burst,0.10941200000000001,-0.02086304075696886,3
+7,POS02,Positive,POS02,A2,1,Mean::Burst Percentage - Std,burst,39.1954575,-0.01960728854216912,3
+7,POS02,Positive,POS02,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0089575,0.007994474947487038,3
+7,POS02,Positive,POS02,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0068070000000000006,0.011250247437662134,3
+7,POS02,Positive,POS02,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,12.076114,-0.046425637369113114,3
+7,POS02,Positive,POS02,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.2689905,0.002096320754262033,3
+7,POS02,Positive,POS02,A2,1,Mean::Number of Active Electrodes,spike_activity,18.5,-0.09472137503541521,3
+7,POS02,Positive,POS02,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.7287115,-0.0041273986407624605,3
+8,POS02,Positive,POS02,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-6.809433,-0.023056388573928013,3
+8,POS02,Positive,POS02,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-43.0,0.010346037925100299,3
+8,POS02,Positive,POS02,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-8.0,0.006988709851133599,3
+8,POS02,Positive,POS02,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.060628,0.06858475935015897,3
+8,POS02,Positive,POS02,A3,1,Mean::Burst Duration - Avg (s),burst,0.1387525,-0.012964742563457964,3
+8,POS02,Positive,POS02,A3,1,Mean::Burst Percentage - Std,burst,40.985822,-0.017987024081284525,3
+8,POS02,Positive,POS02,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.010187,0.007798704805921902,3
+8,POS02,Positive,POS02,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0056194999999999995,0.012781398176836467,3
+8,POS02,Positive,POS02,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,6.8593395,-0.042503251906277406,3
+8,POS02,Positive,POS02,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.40459350000000005,0.006736180924431046,3
+8,POS02,Positive,POS02,A3,1,Mean::Number of Active Electrodes,spike_activity,14.5,-0.07661016320300944,3
+8,POS02,Positive,POS02,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.258507,0.007569323127002766,3
+9,POS02,Positive,POS02,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.13210199999999972,0.009647844822784123,3
+9,POS02,Positive,POS02,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,67.0,-0.015582218448441756,3
+9,POS02,Positive,POS02,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,38.0,-0.045455353726046505,3
+9,POS02,Positive,POS02,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0702845,0.06180857243059479,3
+9,POS02,Positive,POS02,B1,1,Mean::Burst Duration - Avg (s),burst,0.1450225,-0.014040943434358478,3
+9,POS02,Positive,POS02,B1,1,Mean::Burst Percentage - Std,burst,41.12987,-0.01972260364003617,3
+9,POS02,Positive,POS02,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0141295,0.02017690216501554,3
+9,POS02,Positive,POS02,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0070019999999999995,0.012755593559187315,3
+9,POS02,Positive,POS02,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,4.734059,-0.04508997938354259,3
+9,POS02,Positive,POS02,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.343415,0.005153219183234294,3
+9,POS02,Positive,POS02,B1,1,Mean::Number of Active Electrodes,spike_activity,14.0,-0.08147140517615264,3
+9,POS02,Positive,POS02,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.6123015,-0.010869499912951145,3
+10,POS02,Positive,POS02,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.04112000000000027,0.011656430972895274,3
+10,POS02,Positive,POS02,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,35.0,-0.013641870565953904,3
+10,POS02,Positive,POS02,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-12.0,0.0524775695810267,3
+10,POS02,Positive,POS02,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.070333,0.06767649143908382,3
+10,POS02,Positive,POS02,B2,1,Mean::Burst Duration - Avg (s),burst,0.1405615,-0.012042358425808043,3
+10,POS02,Positive,POS02,B2,1,Mean::Burst Percentage - Std,burst,44.416702,-0.016045890613976443,3
+10,POS02,Positive,POS02,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.008094500000000001,-0.010438758954060852,3
+10,POS02,Positive,POS02,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0031655,-0.004289374099526964,3
+10,POS02,Positive,POS02,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.314393,0.034018649626523255,3
+10,POS02,Positive,POS02,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.3281885,0.0025619680562091077,3
+10,POS02,Positive,POS02,B2,1,Mean::Number of Active Electrodes,spike_activity,13.5,-0.06381726037038282,3
+10,POS02,Positive,POS02,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.4552045,-0.007482329377024956,3
+11,POS02,Positive,POS02,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.22696800000000028,0.010073306226964902,3
+11,POS02,Positive,POS02,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,31.0,-0.010847021768697429,3
+11,POS02,Positive,POS02,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,3.0,-0.03217535158145,3
+11,POS02,Positive,POS02,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0417425,0.104818835185789,3
+11,POS02,Positive,POS02,B3,1,Mean::Burst Duration - Avg (s),burst,0.124142,-0.015631716087874444,3
+11,POS02,Positive,POS02,B3,1,Mean::Burst Percentage - Std,burst,46.258062499999994,-0.014061195276574123,3
+11,POS02,Positive,POS02,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.009423500000000001,0.010396580346773758,3
+11,POS02,Positive,POS02,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.006343,0.01283526600045324,3
+11,POS02,Positive,POS02,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,8.03387,-0.035166217698025755,3
+11,POS02,Positive,POS02,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.233564,0.0017668138171925566,3
+11,POS02,Positive,POS02,B3,1,Mean::Number of Active Electrodes,spike_activity,8.5,0.05289978503068495,3
+11,POS02,Positive,POS02,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.8584125,-0.0006281356564378061,3
+12,POS03,Positive,POS03,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-3.86281,-0.009435773611120473,3
+12,POS03,Positive,POS03,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-156.0,0.004675408665315007,3
+12,POS03,Positive,POS03,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-33.0,0.03904888885768337,3
+12,POS03,Positive,POS03,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1045735,-0.1973678245405339,3
+12,POS03,Positive,POS03,A1,1,Mean::Burst Duration - Avg (s),burst,0.115344,-0.019475965298436315,3
+12,POS03,Positive,POS03,A1,1,Mean::Burst Percentage - Std,burst,19.806409,0.01010503682450184,3
+12,POS03,Positive,POS03,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0023395,-0.02138529963903474,3
+12,POS03,Positive,POS03,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.001475,-0.013465096880423114,3
+12,POS03,Positive,POS03,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.931405,0.00017800451152854188,3
+12,POS03,Positive,POS03,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.129079,-0.03513439269779525,3
+12,POS03,Positive,POS03,A1,1,Mean::Number of Active Electrodes,spike_activity,11.5,-0.02963635172431908,3
+12,POS03,Positive,POS03,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.489372,0.006226228823544692,3
+13,POS03,Positive,POS03,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.952155,-0.006393762250189428,3
+13,POS03,Positive,POS03,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-165.0,0.004164919481802454,3
+13,POS03,Positive,POS03,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-45.0,0.04184382284120485,3
+13,POS03,Positive,POS03,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0748335,0.006636860669607771,3
+13,POS03,Positive,POS03,A2,1,Mean::Burst Duration - Avg (s),burst,0.1046575,-0.017728086574761968,3
+13,POS03,Positive,POS03,A2,1,Mean::Burst Percentage - Std,burst,6.93521,0.011197768989519253,3
+13,POS03,Positive,POS03,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.002779,-0.01689927825398088,3
+13,POS03,Positive,POS03,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0031935,-0.007761122194480981,3
+13,POS03,Positive,POS03,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.4760775,0.00024853147290371247,3
+13,POS03,Positive,POS03,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.5438595,0.017017531543495817,3
+13,POS03,Positive,POS03,A2,1,Mean::Number of Active Electrodes,spike_activity,9.0,0.021704892439474526,3
+13,POS03,Positive,POS03,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.4208335,-0.00991019330642841,3
+14,POS03,Positive,POS03,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,1.6693660000000001,0.0061286786771638105,3
+14,POS03,Positive,POS03,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-145.0,0.005194677080510666,3
+14,POS03,Positive,POS03,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-39.0,0.03615352016931866,3
+14,POS03,Positive,POS03,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1488455,-0.2817824313677934,3
+14,POS03,Positive,POS03,A3,1,Mean::Burst Duration - Avg (s),burst,0.091017,-0.019009201259662715,3
+14,POS03,Positive,POS03,A3,1,Mean::Burst Percentage - Std,burst,20.983951,0.010414349863357427,3
+14,POS03,Positive,POS03,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.001695,-0.022934889576302978,3
+14,POS03,Positive,POS03,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0003115,-0.014976901597239916,3
+14,POS03,Positive,POS03,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,3.157156,0.00019591512089526622,3
+14,POS03,Positive,POS03,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.026886740684750735,3
+14,POS03,Positive,POS03,A3,1,Mean::Number of Active Electrodes,spike_activity,14.5,-0.03201569937540356,3
+14,POS03,Positive,POS03,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.397024,-0.011100204452156535,3
+15,POS03,Positive,POS03,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.159546,0.005996983323280732,3
+15,POS03,Positive,POS03,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-62.0,0.004797363557413013,3
+15,POS03,Positive,POS03,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-62.0,0.04564288500114344,3
+15,POS03,Positive,POS03,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,5.3e-05,0.12316019194528323,3
+15,POS03,Positive,POS03,B1,1,Mean::Burst Duration - Avg (s),burst,0.0,-0.014858697278908014,3
+15,POS03,Positive,POS03,B1,1,Mean::Burst Percentage - Std,burst,0.0,0.012078316869102068,3
+15,POS03,Positive,POS03,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0,-0.018895346955051306,3
+15,POS03,Positive,POS03,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.010962994297517951,3
+15,POS03,Positive,POS03,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.579773,-0.0019296318775525827,3
+15,POS03,Positive,POS03,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.024494136234581538,3
+15,POS03,Positive,POS03,B1,1,Mean::Number of Active Electrodes,spike_activity,2.5,0.020892681384942043,3
+15,POS03,Positive,POS03,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.232222,-0.011765304720460397,3
+16,POS03,Positive,POS03,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.981463,0.004779501136228514,3
+16,POS03,Positive,POS03,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-58.0,0.004469277418253043,3
+16,POS03,Positive,POS03,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-41.0,0.041914173117321395,3
+16,POS03,Positive,POS03,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.000789,0.11957039535929519,3
+16,POS03,Positive,POS03,B2,1,Mean::Burst Duration - Avg (s),burst,0.1849735,-0.007235728366369459,3
+16,POS03,Positive,POS03,B2,1,Mean::Burst Percentage - Std,burst,1.5469725,0.002778219380760912,3
+16,POS03,Positive,POS03,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0206,0.013214992295036573,3
+16,POS03,Positive,POS03,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.0086489779357281,3
+16,POS03,Positive,POS03,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.4907315,-0.001758990926599065,3
+16,POS03,Positive,POS03,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.021628337855994082,3
+16,POS03,Positive,POS03,B2,1,Mean::Number of Active Electrodes,spike_activity,4.5,0.020258623158291883,3
+16,POS03,Positive,POS03,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.284568,-0.009378552991741645,3
+17,POS03,Positive,POS03,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-4.751866,-0.00827222389893399,3
+17,POS03,Positive,POS03,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-135.0,0.0048193791676398885,3
+17,POS03,Positive,POS03,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-38.0,0.03206163420874401,3
+17,POS03,Positive,POS03,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1336975,-0.2842894779602324,3
+17,POS03,Positive,POS03,B3,1,Mean::Burst Duration - Avg (s),burst,0.092358,-0.01945042729170787,3
+17,POS03,Positive,POS03,B3,1,Mean::Burst Percentage - Std,burst,21.235637,0.008318103979884956,3
+17,POS03,Positive,POS03,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0023675,-0.017464194356903648,3
+17,POS03,Positive,POS03,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.001417,-0.013881369831074993,3
+17,POS03,Positive,POS03,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.375933,0.0001827447502701372,3
+17,POS03,Positive,POS03,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.1207855,-0.02561602754414909,3
+17,POS03,Positive,POS03,B3,1,Mean::Number of Active Electrodes,spike_activity,12.0,-0.03023133023331562,3
+17,POS03,Positive,POS03,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.084722,0.005302354201342465,3
+18,POS04,Positive,POS04,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.1242230000000002,0.021136243472358696,3
+18,POS04,Positive,POS04,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,151.0,-0.0036423890575490604,3
+18,POS04,Positive,POS04,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,36.0,-0.09212084539510586,3
+18,POS04,Positive,POS04,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0288625,0.1423490739651714,3
+18,POS04,Positive,POS04,A1,1,Mean::Burst Duration - Avg (s),burst,0.3171315,0.0030037863869909836,3
+18,POS04,Positive,POS04,A1,1,Mean::Burst Percentage - Std,burst,11.7984145,0.0013662791983396936,3
+18,POS04,Positive,POS04,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0070515,-0.06493483004677626,3
+18,POS04,Positive,POS04,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.008971,0.002015892166161424,3
+18,POS04,Positive,POS04,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.3524775,0.0044720840536885765,3
+18,POS04,Positive,POS04,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.2153845,-0.00042752268103261605,3
+18,POS04,Positive,POS04,A1,1,Mean::Number of Active Electrodes,spike_activity,7.5,0.02215068861497221,3
+18,POS04,Positive,POS04,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.7826385,0.0008290687903623898,3
+19,POS04,Positive,POS04,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.7932680000000003,-0.023672705400666155,3
+19,POS04,Positive,POS04,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-555.0,0.004160197096428381,3
+19,POS04,Positive,POS04,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,58.0,-0.06967391248757916,3
+19,POS04,Positive,POS04,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0576215,0.13793755648312744,3
+19,POS04,Positive,POS04,A2,1,Mean::Burst Duration - Avg (s),burst,0.7567254999999999,0.0018885521804569002,3
+19,POS04,Positive,POS04,A2,1,Mean::Burst Percentage - Std,burst,22.1152805,-0.00011255784581105101,3
+19,POS04,Positive,POS04,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.032605499999999996,0.06549118405759886,3
+19,POS04,Positive,POS04,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.007738,0.00175530412061898,3
+19,POS04,Positive,POS04,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.439158,0.000718176621874724,3
+19,POS04,Positive,POS04,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.477876,0.003187223482463099,3
+19,POS04,Positive,POS04,A2,1,Mean::Number of Active Electrodes,spike_activity,9.5,0.01836947828048358,3
+19,POS04,Positive,POS04,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.310114,0.002188798260909543,3
+20,POS04,Positive,POS04,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.142374,0.01847771340291257,3
+20,POS04,Positive,POS04,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,433.0,-0.0013278121180418526,3
+20,POS04,Positive,POS04,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,14.0,-0.06520420058147498,3
+20,POS04,Positive,POS04,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0174795,0.14133065963784855,3
+20,POS04,Positive,POS04,A3,1,Mean::Burst Duration - Avg (s),burst,0.367355,0.0019974759779870527,3
+20,POS04,Positive,POS04,A3,1,Mean::Burst Percentage - Std,burst,18.697094,-0.0001770333507684648,3
+20,POS04,Positive,POS04,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.016439500000000003,0.06548548884931261,3
+20,POS04,Positive,POS04,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.006495,0.001721500674331633,3
+20,POS04,Positive,POS04,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.4371010000000002,0.0018206080421805364,3
+20,POS04,Positive,POS04,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.5600785,0.0023136749156509283,3
+20,POS04,Positive,POS04,A3,1,Mean::Number of Active Electrodes,spike_activity,6.0,0.02158928888125552,3
+20,POS04,Positive,POS04,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.294444,0.0022234762225438096,3
+21,POS04,Positive,POS04,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.3180289999999999,0.019451787479704736,3
+21,POS04,Positive,POS04,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,669.0,-0.0014238385966530579,3
+21,POS04,Positive,POS04,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,39.0,-0.0649915611250671,3
+21,POS04,Positive,POS04,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.032366,0.13799008299010218,3
+21,POS04,Positive,POS04,B1,1,Mean::Burst Duration - Avg (s),burst,0.8180999999999999,0.0019517463200760144,3
+21,POS04,Positive,POS04,B1,1,Mean::Burst Percentage - Std,burst,29.7399625,-0.0001950191920278288,3
+21,POS04,Positive,POS04,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.016016000000000002,0.06629031684111666,3
+21,POS04,Positive,POS04,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0102345,0.0016641551180294218,3
+21,POS04,Positive,POS04,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.7700434999999999,0.0017720547125295398,3
+21,POS04,Positive,POS04,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.491476,0.002944806216422598,3
+21,POS04,Positive,POS04,B1,1,Mean::Number of Active Electrodes,spike_activity,8.0,0.022976544228623868,3
+21,POS04,Positive,POS04,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.7373735,0.0020495767360208176,3
+22,POS04,Positive,POS04,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.13645699999999994,0.018920750626259385,3
+22,POS04,Positive,POS04,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-133.0,0.007590938364672996,3
+22,POS04,Positive,POS04,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-65.0,0.10418674632630964,3
+22,POS04,Positive,POS04,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0010395,0.12548567327774232,3
+22,POS04,Positive,POS04,B2,1,Mean::Burst Duration - Avg (s),burst,0.0,-0.004818786397852282,3
+22,POS04,Positive,POS04,B2,1,Mean::Burst Percentage - Std,burst,0.0,0.001011683341736593,3
+22,POS04,Positive,POS04,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0,-0.03490197545227905,3
+22,POS04,Positive,POS04,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.0007784893218841848,3
+22,POS04,Positive,POS04,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.0360615,0.004160153924453038,3
+22,POS04,Positive,POS04,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.003546284335768892,3
+22,POS04,Positive,POS04,B2,1,Mean::Number of Active Electrodes,spike_activity,3.0,0.014915939361822833,3
+22,POS04,Positive,POS04,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.101111,0.0015717390545264406,3
+23,POS04,Positive,POS04,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.770936,-0.021588938721214177,3
+23,POS04,Positive,POS04,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-1024.0,0.007660989637521132,3
+23,POS04,Positive,POS04,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-56.0,0.09957536311164776,3
+23,POS04,Positive,POS04,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.047063,0.12798481835397305,3
+23,POS04,Positive,POS04,B3,1,Mean::Burst Duration - Avg (s),burst,0.4706105,0.0019240136568744938,3
+23,POS04,Positive,POS04,B3,1,Mean::Burst Percentage - Std,burst,18.47244,0.0012302840318254922,3
+23,POS04,Positive,POS04,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0063325,-0.03740091722251641,3
+23,POS04,Positive,POS04,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0035885,-0.0003055818396172009,3
+23,POS04,Positive,POS04,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.385468,0.004342136963236108,3
+23,POS04,Positive,POS04,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.003043386136630065,3
+23,POS04,Positive,POS04,B3,1,Mean::Number of Active Electrodes,spike_activity,8.0,0.01603880167628328,3
+23,POS04,Positive,POS04,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.130729,0.001443613831091813,3
+24,POS05,Positive,POS05,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,1.453982,0.03205102105297286,3
+24,POS05,Positive,POS05,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,402.0,-0.004083062904990382,3
+24,POS05,Positive,POS05,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-6.0,0.017105713916545796,3
+24,POS05,Positive,POS05,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.029436,0.11063413118719363,3
+24,POS05,Positive,POS05,A1,1,Mean::Burst Duration - Avg (s),burst,0.5383005000000001,0.0020341186370286665,3
+24,POS05,Positive,POS05,A1,1,Mean::Burst Percentage - Std,burst,23.647406,0.0034675056321753404,3
+24,POS05,Positive,POS05,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.046899500000000004,0.030803084488164767,3
+24,POS05,Positive,POS05,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0138835,0.002690412759073779,3
+24,POS05,Positive,POS05,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.76743,0.009344177186075183,3
+24,POS05,Positive,POS05,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.8042069999999999,0.005522773285931049,3
+24,POS05,Positive,POS05,A1,1,Mean::Number of Active Electrodes,spike_activity,8.0,0.009631350291547951,3
+24,POS05,Positive,POS05,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.146364,0.0027516978439288517,3
+25,POS05,Positive,POS05,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.775584,0.023270979853933327,3
+25,POS05,Positive,POS05,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-217.0,0.008311119942960363,3
+25,POS05,Positive,POS05,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-48.0,0.061242290162826306,3
+25,POS05,Positive,POS05,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.022978500000000002,0.09220790032176646,3
+25,POS05,Positive,POS05,A2,1,Mean::Burst Duration - Avg (s),burst,0.5333605,0.0017379303204102636,3
+25,POS05,Positive,POS05,A2,1,Mean::Burst Percentage - Std,burst,23.3613155,0.0033010786813166457,3
+25,POS05,Positive,POS05,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0330275,0.0234800814569031,3
+25,POS05,Positive,POS05,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.008842000000000001,0.002020150695116844,3
+25,POS05,Positive,POS05,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.6865009999999998,0.006754914716455254,3
+25,POS05,Positive,POS05,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,1.7228465,0.0037736648417733276,3
+25,POS05,Positive,POS05,A2,1,Mean::Number of Active Electrodes,spike_activity,9.0,0.009233469184901979,3
+25,POS05,Positive,POS05,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.035139,0.0025045142052005347,3
+26,POS05,Positive,POS05,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.7412479999999997,0.03048684564375975,3
+26,POS05,Positive,POS05,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,337.0,-0.004368005050949878,3
+26,POS05,Positive,POS05,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-3.0,0.02060123659730716,3
+26,POS05,Positive,POS05,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0462715,0.10956066269600002,3
+26,POS05,Positive,POS05,A3,1,Mean::Burst Duration - Avg (s),burst,0.969389,0.0023275657712171385,3
+26,POS05,Positive,POS05,A3,1,Mean::Burst Percentage - Std,burst,33.084889000000004,-0.003118957558439835,3
+26,POS05,Positive,POS05,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0119365,0.03042020257217465,3
+26,POS05,Positive,POS05,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.010211999999999999,0.0030853503400942784,3
+26,POS05,Positive,POS05,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.60215,0.003180254352951621,3
+26,POS05,Positive,POS05,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.310327,0.005771598411310052,3
+26,POS05,Positive,POS05,A3,1,Mean::Number of Active Electrodes,spike_activity,9.0,0.009924816567864687,3
+26,POS05,Positive,POS05,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.881597,0.0035690845421480952,3
+27,POS05,Positive,POS05,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.1423629999999998,0.027867251254307723,3
+27,POS05,Positive,POS05,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-215.0,0.012889081007300842,3
+27,POS05,Positive,POS05,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,34.0,-0.05429970453907219,3
+27,POS05,Positive,POS05,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0359955,0.12198815371547996,3
+27,POS05,Positive,POS05,B1,1,Mean::Burst Duration - Avg (s),burst,0.6473455,0.002341025530498608,3
+27,POS05,Positive,POS05,B1,1,Mean::Burst Percentage - Std,burst,23.6325575,0.003505237821351603,3
+27,POS05,Positive,POS05,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0344365,0.03380500393126298,3
+27,POS05,Positive,POS05,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.008352,0.0029249427003648003,3
+27,POS05,Positive,POS05,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.6316915,0.011014474398473764,3
+27,POS05,Positive,POS05,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.5154895,0.007637709276578219,3
+27,POS05,Positive,POS05,B1,1,Mean::Number of Active Electrodes,spike_activity,9.0,0.009769918652320351,3
+27,POS05,Positive,POS05,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.430375,0.00406926621174164,3
+28,POS05,Positive,POS05,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.3946610000000002,0.02374110845115932,3
+28,POS05,Positive,POS05,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,319.0,-0.003702153076193534,3
+28,POS05,Positive,POS05,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-23.0,0.060186197181421985,3
+28,POS05,Positive,POS05,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0269805,0.09646894520243492,3
+28,POS05,Positive,POS05,B2,1,Mean::Burst Duration - Avg (s),burst,0.6458545,0.00206707925621973,3
+28,POS05,Positive,POS05,B2,1,Mean::Burst Percentage - Std,burst,30.3319245,-0.003038182123391723,3
+28,POS05,Positive,POS05,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0359315,0.026221503208270644,3
+28,POS05,Positive,POS05,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.021226,0.0022911152832589543,3
+28,POS05,Positive,POS05,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.6618285,0.007219082358103528,3
+28,POS05,Positive,POS05,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.506131,0.004490746208897758,3
+28,POS05,Positive,POS05,B2,1,Mean::Number of Active Electrodes,spike_activity,8.0,0.009588239079824203,3
+28,POS05,Positive,POS05,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.236464,0.0030365849797682905,3
+29,POS05,Positive,POS05,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,2.305387,0.02657211141065799,3
+29,POS05,Positive,POS05,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,208.0,-0.003496694920963985,3
+29,POS05,Positive,POS05,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-32.0,0.06187226058639309,3
+29,POS05,Positive,POS05,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0368495,0.09365921905911008,3
+29,POS05,Positive,POS05,B3,1,Mean::Burst Duration - Avg (s),burst,0.7400205000000001,0.0019774938209189204,3
+29,POS05,Positive,POS05,B3,1,Mean::Burst Percentage - Std,burst,26.271507500000002,0.0012756994546011572,3
+29,POS05,Positive,POS05,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.037116,0.024793799146923617,3
+29,POS05,Positive,POS05,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.008196,0.002283886019399195,3
+29,POS05,Positive,POS05,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.1577385,0.0070619968011871835,3
+29,POS05,Positive,POS05,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.5682265,0.003981557524659566,3
+29,POS05,Positive,POS05,B3,1,Mean::Number of Active Electrodes,spike_activity,8.5,0.009357323318167972,3
+29,POS05,Positive,POS05,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.618017,0.0027517541510018524,3
+30,POS06,Positive,POS06,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.27522500000000005,0.01057229484948846,3
+30,POS06,Positive,POS06,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,34.0,-0.0039033470037220853,3
+30,POS06,Positive,POS06,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-72.0,0.08078372651297185,3
+30,POS06,Positive,POS06,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.019546,0.11545463469120916,3
+30,POS06,Positive,POS06,A1,1,Mean::Burst Duration - Avg (s),burst,0.8533075,0.003173069919769972,3
+30,POS06,Positive,POS06,A1,1,Mean::Burst Percentage - Std,burst,21.231971,0.001631384241153248,3
+30,POS06,Positive,POS06,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.032198500000000005,0.05555267699442251,3
+30,POS06,Positive,POS06,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.017721,0.0026006046423895533,3
+30,POS06,Positive,POS06,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.3405965000000002,0.00533627779912894,3
+30,POS06,Positive,POS06,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.265684,0.005099718869422323,3
+30,POS06,Positive,POS06,A1,1,Mean::Number of Active Electrodes,spike_activity,7.5,0.00914783016088661,3
+30,POS06,Positive,POS06,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,4.3430555,0.01281312612851184,3
+31,POS06,Positive,POS06,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.00607599999999997,0.012014990344781559,3
+31,POS06,Positive,POS06,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,577.0,-0.005113616502947273,3
+31,POS06,Positive,POS06,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,20.0,-0.06435524126756247,3
+31,POS06,Positive,POS06,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.00745,0.1582103593205964,3
+31,POS06,Positive,POS06,A2,1,Mean::Burst Duration - Avg (s),burst,0.2577485,0.0049707417617793495,3
+31,POS06,Positive,POS06,A2,1,Mean::Burst Percentage - Std,burst,10.949540500000001,0.0018737640887222888,3
+31,POS06,Positive,POS06,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0454845,0.08132683979519816,3
+31,POS06,Positive,POS06,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.009680000000000001,0.006827841086865028,3
+31,POS06,Positive,POS06,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.0525769999999999,0.007386378226456811,3
+31,POS06,Positive,POS06,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.4105175,0.008616779755835455,3
+31,POS06,Positive,POS06,A2,1,Mean::Number of Active Electrodes,spike_activity,6.0,0.01275952178122545,3
+31,POS06,Positive,POS06,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,3.7229164999999997,0.01858370771838559,3
+32,POS06,Positive,POS06,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.113838,0.009950375981214976,3
+32,POS06,Positive,POS06,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,144.0,-0.00513767658525872,3
+32,POS06,Positive,POS06,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,68.0,-0.06516136901832564,3
+32,POS06,Positive,POS06,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0413575,0.1626593938442292,3
+32,POS06,Positive,POS06,A3,1,Mean::Burst Duration - Avg (s),burst,0.46781950000000005,0.004274793491802286,3
+32,POS06,Positive,POS06,A3,1,Mean::Burst Percentage - Std,burst,19.571630499999998,0.0018772427354835826,3
+32,POS06,Positive,POS06,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.029463999999999997,0.0797358592696212,3
+32,POS06,Positive,POS06,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0057005,0.006236504097641617,3
+32,POS06,Positive,POS06,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.529369,0.006547422814010474,3
+32,POS06,Positive,POS06,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,1.2112685,0.009439734688580595,3
+32,POS06,Positive,POS06,A3,1,Mean::Number of Active Electrodes,spike_activity,11.0,-0.00887352531189444,3
+32,POS06,Positive,POS06,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.2945235,0.017017439350968718,3
+33,POS06,Positive,POS06,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.546064,0.002245303874628407,3
+33,POS06,Positive,POS06,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,510.0,-0.005169679486641167,3
+33,POS06,Positive,POS06,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,67.0,-0.06325131521853446,3
+33,POS06,Positive,POS06,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0257405,0.16256798736889053,3
+33,POS06,Positive,POS06,B1,1,Mean::Burst Duration - Avg (s),burst,0.41638,0.004925393992690028,3
+33,POS06,Positive,POS06,B1,1,Mean::Burst Percentage - Std,burst,35.084775,-0.0021160001728545708,3
+33,POS06,Positive,POS06,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.025,0.08078291519562268,3
+33,POS06,Positive,POS06,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.012863,0.006407659559476167,3
+33,POS06,Positive,POS06,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.975949,0.006538629238666216,3
+33,POS06,Positive,POS06,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.227818,0.0072047379419759435,3
+33,POS06,Positive,POS06,B1,1,Mean::Number of Active Electrodes,spike_activity,7.0,0.014460202703183454,3
+33,POS06,Positive,POS06,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,3.851587,0.01788693531243889,3
+34,POS06,Positive,POS06,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.49568900000000005,0.009424293243015797,3
+34,POS06,Positive,POS06,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-172.0,0.008288904620955393,3
+34,POS06,Positive,POS06,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-31.0,0.07770542008629827,3
+34,POS06,Positive,POS06,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.020073499999999998,0.1097952663001639,3
+34,POS06,Positive,POS06,B2,1,Mean::Burst Duration - Avg (s),burst,0.429987,0.003344724560156463,3
+34,POS06,Positive,POS06,B2,1,Mean::Burst Percentage - Std,burst,16.684766,0.0018529100257351383,3
+34,POS06,Positive,POS06,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0211975,0.04737030137330295,3
+34,POS06,Positive,POS06,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.019853000000000003,0.0024991743370062786,3
+34,POS06,Positive,POS06,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.2293425,0.00580244238695338,3
+34,POS06,Positive,POS06,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.38751100000000005,0.005290082852459614,3
+34,POS06,Positive,POS06,B2,1,Mean::Number of Active Electrodes,spike_activity,7.5,0.008700852930821755,3
+34,POS06,Positive,POS06,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.1875,0.012278116542707987,3
+35,POS06,Positive,POS06,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.37409800000000004,0.008655827075105024,3
+35,POS06,Positive,POS06,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-261.0,0.007998920166520053,3
+35,POS06,Positive,POS06,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-59.0,0.07891398639142237,3
+35,POS06,Positive,POS06,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.024873,0.1065768116429724,3
+35,POS06,Positive,POS06,B3,1,Mean::Burst Duration - Avg (s),burst,0.32969499999999996,0.003215882599491772,3
+35,POS06,Positive,POS06,B3,1,Mean::Burst Percentage - Std,burst,19.465324,0.001872810624815811,3
+35,POS06,Positive,POS06,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.032771,0.049857127607834555,3
+35,POS06,Positive,POS06,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.006932,0.0025435680782215494,3
+35,POS06,Positive,POS06,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.259771,0.006247649207297294,3
+35,POS06,Positive,POS06,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.8396095000000001,0.005713651213725949,3
+35,POS06,Positive,POS06,B3,1,Mean::Number of Active Electrodes,spike_activity,8.5,0.008596104695634163,3
+35,POS06,Positive,POS06,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,3.7987655,0.01193851274265735,3
+36,POS07,Positive,POS07,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.000116,0.005864925518916503,3
+36,POS07,Positive,POS07,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-1.0,-0.008291815769108424,3
+36,POS07,Positive,POS07,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-19.0,0.10483054468134434,3
+36,POS07,Positive,POS07,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.000172,0.1231210008074413,3
+36,POS07,Positive,POS07,A1,1,Mean::Burst Duration - Avg (s),burst,0.0,-0.00817952323446256,3
+36,POS07,Positive,POS07,A1,1,Mean::Burst Percentage - Std,burst,0.0,0.008767800149076651,3
+36,POS07,Positive,POS07,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0,-0.038486318024203055,3
+36,POS07,Positive,POS07,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.0025046240833708675,3
+36,POS07,Positive,POS07,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.500058,0.00546816268685722,3
+36,POS07,Positive,POS07,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.01718737541102908,3
+36,POS07,Positive,POS07,A1,1,Mean::Number of Active Electrodes,spike_activity,1.5,0.023014171216938717,3
+36,POS07,Positive,POS07,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.137963,-0.017740927332757835,3
+37,POS07,Positive,POS07,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.517876,-0.0033505710014314627,3
+37,POS07,Positive,POS07,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-374.0,0.013880223969614172,3
+37,POS07,Positive,POS07,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-47.0,0.10579089969073213,3
+37,POS07,Positive,POS07,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0084035,0.11042790932955947,3
+37,POS07,Positive,POS07,A2,1,Mean::Burst Duration - Avg (s),burst,0.4206,0.0029499407370436807,3
+37,POS07,Positive,POS07,A2,1,Mean::Burst Percentage - Std,burst,21.3697305,0.00467676632882407,3
+37,POS07,Positive,POS07,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.002976,-0.022605131712690418,3
+37,POS07,Positive,POS07,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.001231,-0.0023590599934794638,3
+37,POS07,Positive,POS07,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.758938,0.0044813511048064246,3
+37,POS07,Positive,POS07,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.0078128320601536,3
+37,POS07,Positive,POS07,A2,1,Mean::Number of Active Electrodes,spike_activity,2.5,0.02011218875241294,3
+37,POS07,Positive,POS07,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.762778,0.004601944458705405,3
+38,POS07,Positive,POS07,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-2.385545,-0.002994040252761565,3
+38,POS07,Positive,POS07,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-611.0,0.006356001146680991,3
+38,POS07,Positive,POS07,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-23.0,0.06691587129262862,3
+38,POS07,Positive,POS07,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.017085,0.1028350561278381,3
+38,POS07,Positive,POS07,A3,1,Mean::Burst Duration - Avg (s),burst,0.69764,0.002321634897142986,3
+38,POS07,Positive,POS07,A3,1,Mean::Burst Percentage - Std,burst,18.808964,0.004292050120636347,3
+38,POS07,Positive,POS07,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0088365,0.02667801553379158,3
+38,POS07,Positive,POS07,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.008832,0.0024160676838450705,3
+38,POS07,Positive,POS07,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.1927725,0.0031146491472436866,3
+38,POS07,Positive,POS07,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.004193007543195837,3
+38,POS07,Positive,POS07,A3,1,Mean::Number of Active Electrodes,spike_activity,3.0,0.021488897482480812,3
+38,POS07,Positive,POS07,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.211111,0.0063604050270643885,3
+39,POS07,Positive,POS07,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-1.88992,-0.002669017235489773,3
+39,POS07,Positive,POS07,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-973.0,0.006653645654700492,3
+39,POS07,Positive,POS07,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-62.0,0.06468979802836354,3
+39,POS07,Positive,POS07,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.022507,0.1065256580149893,3
+39,POS07,Positive,POS07,B1,1,Mean::Burst Duration - Avg (s),burst,0.3412585,0.0022109765098085304,3
+39,POS07,Positive,POS07,B1,1,Mean::Burst Percentage - Std,burst,20.96477,0.004136315906308249,3
+39,POS07,Positive,POS07,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0102285,0.02683849517251709,3
+39,POS07,Positive,POS07,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.007569,0.002503534838669347,3
+39,POS07,Positive,POS07,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.94496,0.0030071370113916953,3
+39,POS07,Positive,POS07,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.6932105,0.0038539537758980353,3
+39,POS07,Positive,POS07,B1,1,Mean::Number of Active Electrodes,spike_activity,4.0,0.02205543855325906,3
+39,POS07,Positive,POS07,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.6756945,0.005222185501069932,3
+40,POS07,Positive,POS07,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.874508,0.005735279796903744,3
+40,POS07,Positive,POS07,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-1.0,-0.004345346080070287,3
+40,POS07,Positive,POS07,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-1.0,-0.05960645332061513,3
+40,POS07,Positive,POS07,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0006265,0.13249636054840974,3
+40,POS07,Positive,POS07,B2,1,Mean::Burst Duration - Avg (s),burst,0.082712,-0.002944848915837987,3
+40,POS07,Positive,POS07,B2,1,Mean::Burst Percentage - Std,burst,3.5032855,0.0048571378341875976,3
+40,POS07,Positive,POS07,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0143905,0.05648205112514984,3
+40,POS07,Positive,POS07,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.017014,0.005741659558973187,3
+40,POS07,Positive,POS07,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.437254,0.0044992375211290086,3
+40,POS07,Positive,POS07,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.2340425,0.007162309347013767,3
+40,POS07,Positive,POS07,B2,1,Mean::Number of Active Electrodes,spike_activity,2.5,0.02721968403816896,3
+40,POS07,Positive,POS07,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.043889,0.011352049208384144,3
+41,POS07,Positive,POS07,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.0,0.011221829728822706,3
+41,POS07,Positive,POS07,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-1.0,-0.009731681393976843,3
+41,POS07,Positive,POS07,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-2.0,-0.07344298165882247,3
+41,POS07,Positive,POS07,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0016365,0.11852762873362128,3
+41,POS07,Positive,POS07,B3,1,Mean::Burst Duration - Avg (s),burst,0.0,-0.009674501014524137,3
+41,POS07,Positive,POS07,B3,1,Mean::Burst Percentage - Std,burst,0.0,0.007995953629034819,3
+41,POS07,Positive,POS07,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0,-0.06348554369221719,3
+41,POS07,Positive,POS07,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.0063949325144575485,3
+41,POS07,Positive,POS07,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,0.0,0.005303855065506432,3
+41,POS07,Positive,POS07,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.02155557189134588,3
+41,POS07,Positive,POS07,B3,1,Mean::Number of Active Electrodes,spike_activity,0.0,0.024312596860949668,3
+41,POS07,Positive,POS07,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.0,-0.02246185960991877,3
+42,POS08,Positive,POS08,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.873148,0.010796788132413188,3
+42,POS08,Positive,POS08,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-605.0,0.007081848973865378,3
+42,POS08,Positive,POS08,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-46.0,0.05620886965340036,3
+42,POS08,Positive,POS08,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.035557500000000006,0.10636070230458344,3
+42,POS08,Positive,POS08,A1,1,Mean::Burst Duration - Avg (s),burst,0.740203,0.0009619615088148015,3
+42,POS08,Positive,POS08,A1,1,Mean::Burst Percentage - Std,burst,33.8294525,-0.006517007166123082,3
+42,POS08,Positive,POS08,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0171265,0.03452106919441441,3
+42,POS08,Positive,POS08,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.009069500000000001,0.009733282142379146,3
+42,POS08,Positive,POS08,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.6124289999999997,0.005454424428063684,3
+42,POS08,Positive,POS08,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,3.2751165,0.010731561112872982,3
+42,POS08,Positive,POS08,A1,1,Mean::Number of Active Electrodes,spike_activity,9.0,0.012568457732063332,3
+42,POS08,Positive,POS08,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,4.3399350000000005,0.008633008189240676,3
+43,POS08,Positive,POS08,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,1.2842989999999999,0.026887261197272753,3
+43,POS08,Positive,POS08,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-344.0,0.009411308155998723,3
+43,POS08,Positive,POS08,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,2.0,-0.05096097107204884,3
+43,POS08,Positive,POS08,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.010195500000000001,0.15588763587185425,3
+43,POS08,Positive,POS08,A2,1,Mean::Burst Duration - Avg (s),burst,0.28767699999999996,0.0018811240828923714,3
+43,POS08,Positive,POS08,A2,1,Mean::Burst Percentage - Std,burst,20.4787115,0.007797536528798651,3
+43,POS08,Positive,POS08,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.034012,0.04793091533679721,3
+43,POS08,Positive,POS08,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0207495,0.01435671051494191,3
+43,POS08,Positive,POS08,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.6474965,0.009944679518230264,3
+43,POS08,Positive,POS08,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.536892,0.019944602457797847,3
+43,POS08,Positive,POS08,A2,1,Mean::Number of Active Electrodes,spike_activity,6.5,0.016449345771818318,3
+43,POS08,Positive,POS08,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.2986115,0.013645147683133407,3
+44,POS08,Positive,POS08,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.786599,0.022228146334937606,3
+44,POS08,Positive,POS08,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,999.0,-0.004564556519983825,3
+44,POS08,Positive,POS08,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,61.0,-0.042391089286172294,3
+44,POS08,Positive,POS08,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0142905,0.15264418297404145,3
+44,POS08,Positive,POS08,A3,1,Mean::Burst Duration - Avg (s),burst,0.32637400000000005,0.0013982248805135655,3
+44,POS08,Positive,POS08,A3,1,Mean::Burst Percentage - Std,burst,16.4102845,0.008905958855110748,3
+44,POS08,Positive,POS08,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0220305,0.0453186660308684,3
+44,POS08,Positive,POS08,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0120295,0.012803228412047724,3
+44,POS08,Positive,POS08,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.3734885000000001,0.009234079639039315,3
+44,POS08,Positive,POS08,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.4971945,0.016172293593451664,3
+44,POS08,Positive,POS08,A3,1,Mean::Number of Active Electrodes,spike_activity,6.0,0.013696166745568108,3
+44,POS08,Positive,POS08,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,3.130635,0.01326101583825356,3
+45,POS08,Positive,POS08,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,1.8101349999999998,0.018055394426833293,3
+45,POS08,Positive,POS08,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-83.0,0.004546743404999796,3
+45,POS08,Positive,POS08,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-50.0,0.06268396559063587,3
+45,POS08,Positive,POS08,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0125565,0.11039304539768231,3
+45,POS08,Positive,POS08,B1,1,Mean::Burst Duration - Avg (s),burst,0.3251375,0.0014226710691151204,3
+45,POS08,Positive,POS08,B1,1,Mean::Burst Percentage - Std,burst,15.7764965,0.00814148624248681,3
+45,POS08,Positive,POS08,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.037361000000000005,0.03619239504095512,3
+45,POS08,Positive,POS08,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.004875,0.006082166297602711,3
+45,POS08,Positive,POS08,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.7418125,0.008235116423478494,3
+45,POS08,Positive,POS08,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.4349985,0.012055260904943915,3
+45,POS08,Positive,POS08,B1,1,Mean::Number of Active Electrodes,spike_activity,6.0,0.013857390877846806,3
+45,POS08,Positive,POS08,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.420139,0.010700458127798304,3
+46,POS08,Positive,POS08,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.24965199999999976,0.018876431685337727,3
+46,POS08,Positive,POS08,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-666.0,0.007849067219326059,3
+46,POS08,Positive,POS08,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-3.0,-0.0019509884295985137,3
+46,POS08,Positive,POS08,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0330775,0.13716672037133124,3
+46,POS08,Positive,POS08,B2,1,Mean::Burst Duration - Avg (s),burst,0.6473260000000001,0.0014288654643611102,3
+46,POS08,Positive,POS08,B2,1,Mean::Burst Percentage - Std,burst,33.037731,-0.007459603495792379,3
+46,POS08,Positive,POS08,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0234025,0.04478655586782326,3
+46,POS08,Positive,POS08,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.013011,0.01103133648414061,3
+46,POS08,Positive,POS08,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.4262259999999998,0.008266896218346016,3
+46,POS08,Positive,POS08,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.9814265,0.011583796319879458,3
+46,POS08,Positive,POS08,B2,1,Mean::Number of Active Electrodes,spike_activity,9.5,0.012759731643988437,3
+46,POS08,Positive,POS08,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.6580554999999997,0.01040489311649085,3
+47,POS08,Positive,POS08,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,3.3464449999999997,0.022605365162275515,3
+47,POS08,Positive,POS08,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-16.0,0.0035144839172803386,3
+47,POS08,Positive,POS08,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-10.0,0.06670079869735572,3
+47,POS08,Positive,POS08,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0065390000000000005,0.12198206651362987,3
+47,POS08,Positive,POS08,B3,1,Mean::Burst Duration - Avg (s),burst,0.1379305,0.0017750626194928953,3
+47,POS08,Positive,POS08,B3,1,Mean::Burst Percentage - Std,burst,17.4917165,0.008496809720613603,3
+47,POS08,Positive,POS08,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.013274000000000001,0.03628208187874408,3
+47,POS08,Positive,POS08,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0045025,-0.003972175695364255,3
+47,POS08,Positive,POS08,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.9501545,-0.006531320377770396,3
+47,POS08,Positive,POS08,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.7324930000000001,0.014226250037878614,3
+47,POS08,Positive,POS08,B3,1,Mean::Number of Active Electrodes,spike_activity,4.5,0.015809366784351703,3
+47,POS08,Positive,POS08,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.6711115,0.011760046905665488,3
+48,POS09,Positive,POS09,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,5.104158999999999,0.02375719541968363,3
+48,POS09,Positive,POS09,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,76.0,-0.011416284847331959,3
+48,POS09,Positive,POS09,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-9.0,0.025747250403812233,3
+48,POS09,Positive,POS09,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0448335,0.1059719191057849,3
+48,POS09,Positive,POS09,A1,1,Mean::Burst Duration - Avg (s),burst,0.5081450000000001,0.011639000967800338,3
+48,POS09,Positive,POS09,A1,1,Mean::Burst Percentage - Std,burst,34.2034105,-0.011476385495970368,3
+48,POS09,Positive,POS09,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.011512999999999999,0.028528881877126096,3
+48,POS09,Positive,POS09,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.007183,0.012174424623932546,3
+48,POS09,Positive,POS09,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,4.1016325,-0.03397863235031426,3
+48,POS09,Positive,POS09,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.4216815,0.009624555573746968,3
+48,POS09,Positive,POS09,A1,1,Mean::Number of Active Electrodes,spike_activity,8.0,0.042356894621884245,3
+48,POS09,Positive,POS09,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,13.381217,0.009065169168429239,3
+49,POS09,Positive,POS09,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,4.623697,0.02231753652880865,3
+49,POS09,Positive,POS09,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,41.0,-0.009802570512207823,3
+49,POS09,Positive,POS09,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-33.0,0.06683961663576259,3
+49,POS09,Positive,POS09,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.011047999999999999,0.08918695775792003,3
+49,POS09,Positive,POS09,A2,1,Mean::Burst Duration - Avg (s),burst,0.3207065,0.007872297244439658,3
+49,POS09,Positive,POS09,A2,1,Mean::Burst Percentage - Std,burst,24.411696,0.00787303278533121,3
+49,POS09,Positive,POS09,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0275615,0.022161580883052746,3
+49,POS09,Positive,POS09,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0090725,0.01015174926465584,3
+49,POS09,Positive,POS09,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,3.1742155,-0.02541345807301157,3
+49,POS09,Positive,POS09,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.458551,0.008297337307939644,3
+49,POS09,Positive,POS09,A2,1,Mean::Number of Active Electrodes,spike_activity,5.5,0.037932691788645806,3
+49,POS09,Positive,POS09,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,8.780278000000001,0.006541627700250868,3
+50,POS09,Positive,POS09,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,2.1850560000000003,0.024241692839725007,3
+50,POS09,Positive,POS09,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,320.0,-0.01151484938260789,3
+50,POS09,Positive,POS09,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,22.0,-0.05007407711646347,3
+50,POS09,Positive,POS09,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.020202,0.11330541870211837,3
+50,POS09,Positive,POS09,A3,1,Mean::Burst Duration - Avg (s),burst,0.2863585,0.010617861460842606,3
+50,POS09,Positive,POS09,A3,1,Mean::Burst Percentage - Std,burst,6.368557,0.009452138003393043,3
+50,POS09,Positive,POS09,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.021492999999999998,0.03313625794102403,3
+50,POS09,Positive,POS09,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0159595,0.009191707906709921,3
+50,POS09,Positive,POS09,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.363133,0.03272152231937205,3
+50,POS09,Positive,POS09,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.269927,0.008990426088631561,3
+50,POS09,Positive,POS09,A3,1,Mean::Number of Active Electrodes,spike_activity,6.0,0.04040576035924325,3
+50,POS09,Positive,POS09,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,8.264999999999999,0.009607443043582686,3
+51,POS09,Positive,POS09,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,2.2164260000000002,0.02548429474139724,3
+51,POS09,Positive,POS09,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,445.0,-0.011655170490956629,3
+51,POS09,Positive,POS09,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,28.0,-0.05059239364970752,3
+51,POS09,Positive,POS09,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0097275,0.11216228562299402,3
+51,POS09,Positive,POS09,B1,1,Mean::Burst Duration - Avg (s),burst,0.3708635,0.011478364309813409,3
+51,POS09,Positive,POS09,B1,1,Mean::Burst Percentage - Std,burst,25.6854675,0.007878633113405491,3
+51,POS09,Positive,POS09,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.026184,0.032434684406810764,3
+51,POS09,Positive,POS09,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0072265,0.009779405135540636,3
+51,POS09,Positive,POS09,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.171669,0.0366531473278344,3
+51,POS09,Positive,POS09,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.212076,0.0025463109225879726,3
+51,POS09,Positive,POS09,B1,1,Mean::Number of Active Electrodes,spike_activity,5.0,0.03956719714527329,3
+51,POS09,Positive,POS09,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,15.254999999999999,0.008945855159415967,3
+52,POS09,Positive,POS09,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,5.60183,0.025013708230539184,3
+52,POS09,Positive,POS09,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,289.0,-0.010384228246510719,3
+52,POS09,Positive,POS09,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-14.0,0.06726551359062323,3
+52,POS09,Positive,POS09,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0267745,0.08975823300640547,3
+52,POS09,Positive,POS09,B2,1,Mean::Burst Duration - Avg (s),burst,0.3012765,0.00933561106600489,3
+52,POS09,Positive,POS09,B2,1,Mean::Burst Percentage - Std,burst,20.2300285,0.009514934711451468,3
+52,POS09,Positive,POS09,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.046091,0.023293685474588228,3
+52,POS09,Positive,POS09,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0091055,0.009452925999303925,3
+52,POS09,Positive,POS09,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,3.827584,-0.030589710546795417,3
+52,POS09,Positive,POS09,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.269188,0.007017735961427975,3
+52,POS09,Positive,POS09,B2,1,Mean::Number of Active Electrodes,spike_activity,8.5,0.03798786287316708,3
+52,POS09,Positive,POS09,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,12.3700395,0.007771327924759435,3
+53,POS09,Positive,POS09,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,2.136589,0.024318363836587028,3
+53,POS09,Positive,POS09,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,331.0,-0.010368968083747413,3
+53,POS09,Positive,POS09,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-22.0,0.06996542406139068,3
+53,POS09,Positive,POS09,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0149925,0.08931870206767967,3
+53,POS09,Positive,POS09,B3,1,Mean::Burst Duration - Avg (s),burst,0.275076,0.00827414055949904,3
+53,POS09,Positive,POS09,B3,1,Mean::Burst Percentage - Std,burst,20.0553345,0.009557030857885599,3
+53,POS09,Positive,POS09,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0087225,-0.0002904375307951808,3
+53,POS09,Positive,POS09,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.002078,-0.0026799817310853105,3
+53,POS09,Positive,POS09,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.9765395,0.032936595867957094,3
+53,POS09,Positive,POS09,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.4916185,0.008222197420912356,3
+53,POS09,Positive,POS09,B3,1,Mean::Number of Active Electrodes,spike_activity,7.0,0.038435585203114894,3
+53,POS09,Positive,POS09,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,10.363542,0.0076270156264029105,3
+54,POS10,Positive,POS10,A1,1,Delta::Network ISI Coefficient of Variation,burst_timing,-4.549631,-0.007906218816491749,3
+54,POS10,Positive,POS10,A1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-1021.0,0.005273178840676947,3
+54,POS10,Positive,POS10,A1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-13.0,0.07222256436599074,3
+54,POS10,Positive,POS10,A1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.030503,0.11954434181097895,3
+54,POS10,Positive,POS10,A1,1,Mean::Burst Duration - Avg (s),burst,0.7147545,0.0023073792940488595,3
+54,POS10,Positive,POS10,A1,1,Mean::Burst Percentage - Std,burst,42.6714585,-0.001189167663041089,3
+54,POS10,Positive,POS10,A1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.01359,0.03813027726417339,3
+54,POS10,Positive,POS10,A1,1,Mean::Median ISI within Burst - Std,burst_timing,0.007085,0.0026763649588381843,3
+54,POS10,Positive,POS10,A1,1,Mean::Network ISI Coefficient of Variation,burst_timing,5.5535465,-0.003746960632916957,3
+54,POS10,Positive,POS10,A1,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.006519579792533206,3
+54,POS10,Positive,POS10,A1,1,Mean::Number of Active Electrodes,spike_activity,6.0,0.017602153458736003,3
+54,POS10,Positive,POS10,A1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.7999999999999999,0.007839851065849264,3
+55,POS10,Positive,POS10,A2,1,Delta::Network ISI Coefficient of Variation,burst_timing,2.1900320000000004,0.009560762228513193,3
+55,POS10,Positive,POS10,A2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,345.0,-0.0041434152138039955,3
+55,POS10,Positive,POS10,A2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,14.0,-0.06099017371285568,3
+55,POS10,Positive,POS10,A2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0630925,0.12547766946049196,3
+55,POS10,Positive,POS10,A2,1,Mean::Burst Duration - Avg (s),burst,0.321549,0.003218924842291976,3
+55,POS10,Positive,POS10,A2,1,Mean::Burst Percentage - Std,burst,33.2473915,-0.0016330652697770693,3
+55,POS10,Positive,POS10,A2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.015763,0.055579206311247416,3
+55,POS10,Positive,POS10,A2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0154815,0.007181588668997093,3
+55,POS10,Positive,POS10,A2,1,Mean::Network ISI Coefficient of Variation,burst_timing,3.595275,-0.005497144653323904,3
+55,POS10,Positive,POS10,A2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.406019,0.008107228400358166,3
+55,POS10,Positive,POS10,A2,1,Mean::Number of Active Electrodes,spike_activity,4.0,0.02113289198734694,3
+55,POS10,Positive,POS10,A2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.5893520000000003,0.019696972108687524,3
+56,POS10,Positive,POS10,A3,1,Delta::Network ISI Coefficient of Variation,burst_timing,1.7332800000000002,0.00918654291718095,3
+56,POS10,Positive,POS10,A3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,164.0,-0.00394162240921071,3
+56,POS10,Positive,POS10,A3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-6.0,0.004252365962774669,3
+56,POS10,Positive,POS10,A3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.049646499999999996,0.1178753659060156,3
+56,POS10,Positive,POS10,A3,1,Mean::Burst Duration - Avg (s),burst,0.1895135,0.0028008440612918833,3
+56,POS10,Positive,POS10,A3,1,Mean::Burst Percentage - Std,burst,24.351682500000003,-0.0006424658448883717,3
+56,POS10,Positive,POS10,A3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.010401500000000001,0.051194374808282754,3
+56,POS10,Positive,POS10,A3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0066585,0.0070057899518697385,3
+56,POS10,Positive,POS10,A3,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.690485,-0.004663515473819445,3
+56,POS10,Positive,POS10,A3,1,Mean::Normalized Duration IQR - Avg,burst_timing,1.17986,0.007367866398352719,3
+56,POS10,Positive,POS10,A3,1,Mean::Number of Active Electrodes,spike_activity,5.5,0.020327483571169,3
+56,POS10,Positive,POS10,A3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,4.119907,0.018981793991945405,3
+57,POS10,Positive,POS10,B1,1,Delta::Network ISI Coefficient of Variation,burst_timing,1.1206400000000003,0.009151856339088181,3
+57,POS10,Positive,POS10,B1,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,300.0,-0.003981314859939393,3
+57,POS10,Positive,POS10,B1,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-3.0,-0.001349764175851036,3
+57,POS10,Positive,POS10,B1,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.051537,0.12342377878311607,3
+57,POS10,Positive,POS10,B1,1,Mean::Burst Duration - Avg (s),burst,0.3980555,0.003804607382389134,3
+57,POS10,Positive,POS10,B1,1,Mean::Burst Percentage - Std,burst,28.5154985,-0.0006130519978426137,3
+57,POS10,Positive,POS10,B1,1,Mean::Median ISI within Burst - Avg,burst_timing,0.0130645,0.05067799447828697,3
+57,POS10,Positive,POS10,B1,1,Mean::Median ISI within Burst - Std,burst_timing,0.0073455,0.006590395953713197,3
+57,POS10,Positive,POS10,B1,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.8079140000000002,-0.0046661526068217185,3
+57,POS10,Positive,POS10,B1,1,Mean::Normalized Duration IQR - Avg,burst_timing,1.330949,0.006766055222531715,3
+57,POS10,Positive,POS10,B1,1,Mean::Number of Active Electrodes,spike_activity,6.5,0.021010896228943716,3
+57,POS10,Positive,POS10,B1,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.942394,0.019474057206470118,3
+58,POS10,Positive,POS10,B2,1,Delta::Network ISI Coefficient of Variation,burst_timing,0.537947,0.0084960026787249,3
+58,POS10,Positive,POS10,B2,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-780.0,0.00532566850349584,3
+58,POS10,Positive,POS10,B2,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,2.0,-0.054323817232485715,3
+58,POS10,Positive,POS10,B2,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.037418,0.15434399366516757,3
+58,POS10,Positive,POS10,B2,1,Mean::Burst Duration - Avg (s),burst,0.6402755,0.0026857713254651527,3
+58,POS10,Positive,POS10,B2,1,Mean::Burst Percentage - Std,burst,22.737156000000002,0.0002549595096045021,3
+58,POS10,Positive,POS10,B2,1,Mean::Median ISI within Burst - Avg,burst_timing,0.011521,0.04805509850244832,3
+58,POS10,Positive,POS10,B2,1,Mean::Median ISI within Burst - Std,burst_timing,0.0050915000000000005,0.006975336793672158,3
+58,POS10,Positive,POS10,B2,1,Mean::Network ISI Coefficient of Variation,burst_timing,2.4961295,-0.0006682142322124088,3
+58,POS10,Positive,POS10,B2,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.83823,0.00704282464425045,3
+58,POS10,Positive,POS10,B2,1,Mean::Number of Active Electrodes,spike_activity,6.5,0.02067928367156398,3
+58,POS10,Positive,POS10,B2,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.4454165000000003,0.0175265857587672,3
+59,POS10,Positive,POS10,B3,1,Delta::Network ISI Coefficient of Variation,burst_timing,-0.30823999999999996,0.010814338223146348,3
+59,POS10,Positive,POS10,B3,1,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-7.0,-0.0050890640217672875,3
+59,POS10,Positive,POS10,B3,1,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-7.0,-0.002328249141228965,3
+59,POS10,Positive,POS10,B3,1,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.023903,0.15240453012908498,3
+59,POS10,Positive,POS10,B3,1,Mean::Burst Duration - Avg (s),burst,0.00528,-0.004005400375980473,3
+59,POS10,Positive,POS10,B3,1,Mean::Burst Percentage - Std,burst,2.048355,0.0029619420982069412,3
+59,POS10,Positive,POS10,B3,1,Mean::Median ISI within Burst - Avg,burst_timing,0.00132,-0.045274246797931426,3
+59,POS10,Positive,POS10,B3,1,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.007409685115433405,3
+59,POS10,Positive,POS10,B3,1,Mean::Network ISI Coefficient of Variation,burst_timing,1.13295,0.007599709959079823,3
+59,POS10,Positive,POS10,B3,1,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.014472094072994811,3
+59,POS10,Positive,POS10,B3,1,Mean::Number of Active Electrodes,spike_activity,3.5,0.019561162001142902,3
+59,POS10,Positive,POS10,B3,1,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.5831014999999999,-0.025711400154115698,3
+60,NEG01,Negative,NEG01,A1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.962537,-0.014582810043874711,3
+60,NEG01,Negative,NEG01,A1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-75.0,0.009004549199232348,3
+60,NEG01,Negative,NEG01,A1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-9.0,0.02515084179532197,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1545985,-0.1684857419622993,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Burst Duration - Avg (s),burst,0.06072,-0.0008639616960728569,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Burst Percentage - Std,burst,19.4907965,0.018780983822351247,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0021215,-0.0193640614307865,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Median ISI within Burst - Std,burst_timing,0.000817,-0.003940824188154054,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.9696865000000003,-0.027459177954329384,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.1039605,0.0,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Number of Active Electrodes,spike_activity,14.0,-0.06344888235821768,3
+60,NEG01,Negative,NEG01,A1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.4224445,0.0,3
+61,NEG01,Negative,NEG01,A2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.768573,-0.014717743901052953,3
+61,NEG01,Negative,NEG01,A2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-76.0,0.008868336908657242,3
+61,NEG01,Negative,NEG01,A2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-9.0,0.02651558138982013,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.124614,-0.15420378255830322,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Burst Duration - Avg (s),burst,0.0578935,-0.000853017131211579,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Burst Percentage - Std,burst,23.523914,0.01935091794433968,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.001658,-0.018737729921661037,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0002345,-0.0038908366148394536,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.8358495,-0.01460514652922198,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,0.0,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Number of Active Electrodes,spike_activity,10.0,0.01158516393905437,3
+61,NEG01,Negative,NEG01,A2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.294753,0.0,3
+62,NEG01,Negative,NEG01,A3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-6.581036,-0.015330023556533788,3
+62,NEG01,Negative,NEG01,A3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-95.0,0.008856487091354755,3
+62,NEG01,Negative,NEG01,A3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-5.0,0.025159663220660555,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.107705,-0.1333696593254529,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Burst Duration - Avg (s),burst,0.0928945,-0.0008602236570031517,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Burst Percentage - Std,burst,21.591858,0.01891888221725822,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0027295,-0.018896097969263788,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0009045,-0.003982767517919901,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Network ISI Coefficient of Variation,burst_timing,4.407182000000001,-0.039780049543413847,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.1925115,0.0,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Number of Active Electrodes,spike_activity,16.5,-0.06792419794946909,3
+62,NEG01,Negative,NEG01,A3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.73952,0.0,3
+63,NEG01,Negative,NEG01,B1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.349235,-0.014560198566565916,3
+63,NEG01,Negative,NEG01,B1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-52.0,0.008973036120059315,3
+63,NEG01,Negative,NEG01,B1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-9.0,0.026439953571254452,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1242615,-0.15783717212508672,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Burst Duration - Avg (s),burst,0.0590915,-0.0008567358884546424,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Burst Percentage - Std,burst,20.6300535,0.0192152699386632,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.001642,-0.018601843449114645,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Median ISI within Burst - Std,burst_timing,0.000373,-0.003984164743235823,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.5735855,0.025988878016532563,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,0.0,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Number of Active Electrodes,spike_activity,13.5,-0.05877430022659678,3
+63,NEG01,Negative,NEG01,B1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.3718625,0.0,3
+64,NEG01,Negative,NEG01,B2,0,Delta::Network ISI Coefficient of Variation,burst_timing,0.09675599999999984,0.010566520742658106,3
+64,NEG01,Negative,NEG01,B2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,219.0,-0.003393074204386381,3
+64,NEG01,Negative,NEG01,B2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,101.0,-0.016148939752882275,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.00934,0.10493820152004006,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Burst Duration - Avg (s),burst,0.129071,-0.0006370021375241064,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Burst Percentage - Std,burst,18.2335235,0.014535525417024341,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.008029,-0.008376206895681441,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0076505,0.002367364929092149,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Network ISI Coefficient of Variation,burst_timing,1.0940750000000001,0.02444259280476857,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,0.0,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Number of Active Electrodes,spike_activity,5.5,0.03815348546745049,3
+64,NEG01,Negative,NEG01,B2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.6207175,0.0,3
+65,NEG01,Negative,NEG01,B3,0,Delta::Network ISI Coefficient of Variation,burst_timing,0.03753200000000012,0.010402789467048859,3
+65,NEG01,Negative,NEG01,B3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,12.0,-0.0034190471042637414,3
+65,NEG01,Negative,NEG01,B3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,11.0,-0.01651035492411917,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0040065,0.1050849297359862,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Burst Duration - Avg (s),burst,0.0,-0.0006504091951582154,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Burst Percentage - Std,burst,0.0,0.014312753964353478,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0,-0.010901272734972066,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0,-0.0025273742844109178,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Network ISI Coefficient of Variation,burst_timing,1.042727,0.023645039782341986,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,0.0,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Number of Active Electrodes,spike_activity,5.5,0.03922223574654371,3
+65,NEG01,Negative,NEG01,B3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.48442450000000004,0.0,3
+66,NEG02,Negative,NEG02,A1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-1.3512279999999999,0.041743158552519706,3
+66,NEG02,Negative,NEG02,A1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-13.0,-0.004697781176892706,3
+66,NEG02,Negative,NEG02,A1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,1.0,-0.1577187676571258,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.11287100000000001,-0.20287413843885857,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Burst Duration - Avg (s),burst,0.060135,-0.01941263029929595,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Burst Percentage - Std,burst,16.6389425,0.0073912936715512636,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.002756,-0.04967233012106994,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Median ISI within Burst - Std,burst_timing,0.0017525,-0.009344220007726651,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Network ISI Coefficient of Variation,burst_timing,1.697756,0.024516979356391213,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.0,-0.019364203859974314,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Number of Active Electrodes,spike_activity,14.5,-0.021110214431839126,3
+66,NEG02,Negative,NEG02,A1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.45284800000000003,-0.015943545668118602,3
+67,NEG02,Negative,NEG02,A2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-0.659975,0.04876919459611937,3
+67,NEG02,Negative,NEG02,A2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,41.0,-0.020419544284016388,3
+67,NEG02,Negative,NEG02,A2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,40.0,-0.14005415029651314,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1249125,-0.2059661290882138,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Burst Duration - Avg (s),burst,0.1679405,-0.001477789967665789,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Burst Percentage - Std,burst,29.186794499999998,-0.0014654662977490209,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.012322999999999999,0.058524518084703714,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0078895,0.010775918127210049,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Network ISI Coefficient of Variation,burst_timing,1.6241344999999998,0.023950174672063434,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.230224,0.010354308166791238,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Number of Active Electrodes,spike_activity,16.5,-0.039436246545260976,3
+67,NEG02,Negative,NEG02,A2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.6083335,-0.01472861721197626,3
+68,NEG02,Negative,NEG02,A3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-1.234947,0.04418082835726198,3
+68,NEG02,Negative,NEG02,A3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,0.0,-0.020441119908355176,3
+68,NEG02,Negative,NEG02,A3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-2.0,-0.07100176545015226,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.215648,-0.21565775075621252,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Burst Duration - Avg (s),burst,0.1597085,-0.0005092228598961718,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Burst Percentage - Std,burst,36.4160435,-0.008197925189785937,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0036465,-0.055910090218229146,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Median ISI within Burst - Std,burst_timing,0.00141,-0.011441721351541305,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.9922945,-0.027573947509302307,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.0641215,-0.020141365865021257,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Number of Active Electrodes,spike_activity,19.5,-0.03994224318820569,3
+68,NEG02,Negative,NEG02,A3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.7341885,-0.007890983280527437,3
+69,NEG02,Negative,NEG02,B1,0,Delta::Network ISI Coefficient of Variation,burst_timing,0.05983099999999997,0.03682203432997793,3
+69,NEG02,Negative,NEG02,B1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,54.0,-0.018620566868749272,3
+69,NEG02,Negative,NEG02,B1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,26.0,-0.16137585859633638,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.3078075,-0.2133400924357206,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Burst Duration - Avg (s),burst,0.12278700000000001,-0.005880912090220524,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Burst Percentage - Std,burst,39.898918,-0.008902588315497806,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0054615,-0.05065169657140764,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Median ISI within Burst - Std,burst_timing,0.0067540000000000005,0.00919772487789116,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.6346205,0.0004419575227614207,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.061708,-0.01775508700973458,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Number of Active Electrodes,spike_activity,23.0,-0.03508131260492114,3
+69,NEG02,Negative,NEG02,B1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.465783,-0.014962703049941748,3
+70,NEG02,Negative,NEG02,B2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-4.043970999999999,-0.07580329658101417,3
+70,NEG02,Negative,NEG02,B2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-11.0,-0.01628073772687155,3
+70,NEG02,Negative,NEG02,B2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-1.0,-0.13299861812438057,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.139356,-0.2174048173256408,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Burst Duration - Avg (s),burst,0.169425,-0.0006666425080900967,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Burst Percentage - Std,burst,44.949935499999995,-0.007420268795384023,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0038294999999999996,-0.05036895181768125,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0007785,-0.012821015977102368,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Network ISI Coefficient of Variation,burst_timing,4.7894765,-0.03354690151000223,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.264987,0.0073622975390645875,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Number of Active Electrodes,spike_activity,14.5,-0.024106377229111752,3
+70,NEG02,Negative,NEG02,B2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.6662524999999997,0.008362395574631929,3
+71,NEG02,Negative,NEG02,B3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-10.954922,-0.07802233749190002,3
+71,NEG02,Negative,NEG02,B3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-4.0,-0.017135201372891765,3
+71,NEG02,Negative,NEG02,B3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,16.0,-0.13942612209077063,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.2126045,-0.2036426615556357,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Burst Duration - Avg (s),burst,0.12451200000000001,-0.006312343487257343,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Burst Percentage - Std,burst,44.7303615,-0.005366093894311538,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.004533000000000001,-0.04586499475192762,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0015455,-0.009395096422587007,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Network ISI Coefficient of Variation,burst_timing,8.531218,-0.03154423745172271,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.313064,0.006875687483611893,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Number of Active Electrodes,spike_activity,22.5,-0.033066375298356564,3
+71,NEG02,Negative,NEG02,B3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.5714755,0.00822653557881023,3
+72,NEG03,Negative,NEG03,A1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.2234490000000005,-0.011691745320179808,3
+72,NEG03,Negative,NEG03,A1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,3.0,-0.005479406185353315,3
+72,NEG03,Negative,NEG03,A1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,10.0,-0.09716578446871911,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.2141035,-0.2850228798316999,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Burst Duration - Avg (s),burst,0.133731,-0.017812812099819667,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Burst Percentage - Std,burst,37.686439,-0.007380305357380875,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.005365999999999999,-0.02936555841696208,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Median ISI within Burst - Std,burst_timing,0.003641,-0.011282479652652026,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.1830495,-0.0034400539722776523,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.162046,-0.022225449920882028,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Number of Active Electrodes,spike_activity,19.0,-0.034469945078793286,3
+72,NEG03,Negative,NEG03,A1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.9261364999999999,0.00929977327339455,3
+73,NEG03,Negative,NEG03,A2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.762683,-0.011220628638208533,3
+73,NEG03,Negative,NEG03,A2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,30.0,-0.00528824991348234,3
+73,NEG03,Negative,NEG03,A2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,21.0,-0.08929457106127368,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.2974095,-0.3065242335317803,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Burst Duration - Avg (s),burst,0.160661,-0.016671653390275664,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Burst Percentage - Std,burst,39.5529765,-0.009269972192770284,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0058414999999999995,-0.026075097955375298,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Median ISI within Burst - Std,burst_timing,0.004432,-0.01132028674538661,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.3819364999999997,-0.0036100835211713036,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.3456725,0.012858253599498074,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Number of Active Electrodes,spike_activity,34.0,-0.035383092626903416,3
+73,NEG03,Negative,NEG03,A2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.4219655,0.009355276194724458,3
+74,NEG03,Negative,NEG03,A3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-1.032802,0.0066409018809079285,3
+74,NEG03,Negative,NEG03,A3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,10.0,-0.006767562642926353,3
+74,NEG03,Negative,NEG03,A3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,14.0,-0.10360311248417321,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.333715,-0.30327618587007577,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Burst Duration - Avg (s),burst,0.14763300000000001,-0.01641397737139078,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Burst Percentage - Std,burst,38.76696,-0.009412353193059704,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0054225,-0.034423248139123806,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Median ISI within Burst - Std,burst_timing,0.003676,-0.01683924658508558,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.225304,0.0035455478096587806,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.362661,0.016428060773156446,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Number of Active Electrodes,spike_activity,31.5,-0.035601797511076755,3
+74,NEG03,Negative,NEG03,A3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.6670194999999999,0.011477240369034308,3
+75,NEG03,Negative,NEG03,B1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.4015969999999998,-0.01226576952030882,3
+75,NEG03,Negative,NEG03,B1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-4.0,-0.005813167533078406,3
+75,NEG03,Negative,NEG03,B1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,16.0,-0.09101445844970402,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.2580195,-0.31504444505833945,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Burst Duration - Avg (s),burst,0.16885,-0.016750678211381594,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Burst Percentage - Std,burst,40.055531,-0.008730107414993216,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0057775,-0.026510321529564895,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Median ISI within Burst - Std,burst_timing,0.0054245,0.011426883943904953,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.6682785,-0.0036623344377235104,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.3783325,0.01381139304786403,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Number of Active Electrodes,spike_activity,25.5,-0.033009100737722806,3
+75,NEG03,Negative,NEG03,B1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.689701,0.010477739246562123,3
+76,NEG03,Negative,NEG03,B2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-2.785776,-0.00801241414996589,3
+76,NEG03,Negative,NEG03,B2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,16.0,-0.00519564776461468,3
+76,NEG03,Negative,NEG03,B2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,14.0,-0.08816151283853857,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.200571,-0.2940460524510989,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Burst Duration - Avg (s),burst,0.11302100000000001,-0.01739179076178483,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Burst Percentage - Std,burst,39.772879,-0.007730622215765631,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.004697,-0.032119891725273596,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Median ISI within Burst - Std,burst_timing,0.004264,-0.016568154249452394,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.2141719999999996,-0.003745262505900529,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.29178149999999997,0.012768001870480716,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Number of Active Electrodes,spike_activity,19.5,-0.03637618081637709,3
+76,NEG03,Negative,NEG03,B2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.63157,-0.017196111322415095,3
+77,NEG03,Negative,NEG03,B3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-2.539941,-0.007476718432304485,3
+77,NEG03,Negative,NEG03,B3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,5.0,-0.006032484431893355,3
+77,NEG03,Negative,NEG03,B3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,11.0,-0.09308798194267891,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.2311765,-0.2983818363236626,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Burst Duration - Avg (s),burst,0.100887,-0.01775718480348587,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Burst Percentage - Std,burst,39.3083285,-0.008208271590734112,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0040095,-0.039025983592081405,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Median ISI within Burst - Std,burst_timing,0.001473,-0.013651339327959621,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.7600335,-0.0033955134365155717,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.311789,0.014109085729729421,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Number of Active Electrodes,spike_activity,20.5,-0.03318596455382821,3
+77,NEG03,Negative,NEG03,B3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.466554,-0.015587569720163522,3
+78,NEG04,Negative,NEG04,A1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.2463680000000004,-0.02537113349643294,3
+78,NEG04,Negative,NEG04,A1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-7.0,-0.01192845640611335,3
+78,NEG04,Negative,NEG04,A1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,6.0,-0.1348189011023755,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.23321,-0.2655098755703269,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Burst Duration - Avg (s),burst,0.12276400000000001,0.0013168946382831111,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Burst Percentage - Std,burst,33.9981575,-0.006331889896709642,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0047,-0.09552393526246307,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Median ISI within Burst - Std,burst_timing,0.004312,-0.005056533876901356,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.319256,-0.00857344749944146,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.45259,0.004926440603837058,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Number of Active Electrodes,spike_activity,24.5,-0.02176848272361827,3
+78,NEG04,Negative,NEG04,A1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.9356755000000001,0.014039502941509623,3
+79,NEG04,Negative,NEG04,A2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.770046,-0.03549579149263014,3
+79,NEG04,Negative,NEG04,A2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,389.0,-0.0098126040551708,3
+79,NEG04,Negative,NEG04,A2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,67.0,-0.12480198858991369,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.117113,-0.2749261138174916,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Burst Duration - Avg (s),burst,0.181722,0.0020726853438342648,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Burst Percentage - Std,burst,24.7738495,-0.00315514304847629,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.025177,0.10164394089736527,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0034615,-0.006785295034879475,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.978951,-0.010243615141586846,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.532782,0.006738195991622182,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Number of Active Electrodes,spike_activity,17.0,-0.02279051240734084,3
+79,NEG04,Negative,NEG04,A2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.164663,0.02415758571975554,3
+80,NEG04,Negative,NEG04,A3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-4.4674499999999995,-0.03033700869871407,3
+80,NEG04,Negative,NEG04,A3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,82.0,-0.008999672704764325,3
+80,NEG04,Negative,NEG04,A3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,12.0,-0.096367115908975,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0861275,0.0017102388604716585,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Burst Duration - Avg (s),burst,0.173446,0.00536875681050502,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Burst Percentage - Std,burst,20.675474,0.004104569427781143,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0201855,0.12843740093219957,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0047125,0.00734826416398088,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.303491,-0.009924895975833613,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.1703235,0.00341887710383162,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Number of Active Electrodes,spike_activity,16.0,-0.011786677246413158,3
+80,NEG04,Negative,NEG04,A3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,1.8272725,0.026359652340869177,3
+81,NEG04,Negative,NEG04,B1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-0.944369,0.010292635649212005,3
+81,NEG04,Negative,NEG04,B1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-2.0,-0.014667067329045729,3
+81,NEG04,Negative,NEG04,B1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-1.0,-0.13086739501795144,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.479973,-0.280107858707197,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Burst Duration - Avg (s),burst,0.136348,0.0019843331104817106,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Burst Percentage - Std,burst,38.490438499999996,-0.006647167831478226,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.005076499999999999,-0.10852890789085197,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Median ISI within Burst - Std,burst_timing,0.0036235,-0.005025750380095645,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Network ISI Coefficient of Variation,burst_timing,2.4590955,0.004115071676831038,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.2134345,0.0033879806406157957,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Number of Active Electrodes,spike_activity,39.0,-0.023483301441323146,3
+81,NEG04,Negative,NEG04,B1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.785952,0.01535558010445028,3
+82,NEG04,Negative,NEG04,B2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-5.028946,-0.03392516118916251,3
+82,NEG04,Negative,NEG04,B2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-9.0,-0.007520654579383096,3
+82,NEG04,Negative,NEG04,B2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,15.0,-0.12673924160642655,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.1354805,-0.2828807623881235,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Burst Duration - Avg (s),burst,0.1347105,0.002039823910605206,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Burst Percentage - Std,burst,29.790779,-0.004111494253070474,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.009084,0.08962591261165304,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0043375,-0.005808297309515718,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.726996,-0.008531268615129026,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.1427945,-0.0005684984851137034,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Number of Active Electrodes,spike_activity,17.5,-0.01973625441142185,3
+82,NEG04,Negative,NEG04,B2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.580371,-0.029353836647027898,3
+83,NEG04,Negative,NEG04,B3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-0.6504249999999994,0.010926879680482676,3
+83,NEG04,Negative,NEG04,B3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,8.0,-0.015258498925767423,3
+83,NEG04,Negative,NEG04,B3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-1.0,-0.13060922885628382,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.21377849999999998,-0.27457811786379255,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Burst Duration - Avg (s),burst,0.13534400000000002,0.002164078970370755,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Burst Percentage - Std,burst,45.791886500000004,-0.007475834772965213,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0048815,-0.11756757649299861,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0023344999999999998,-0.006331128514095872,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Network ISI Coefficient of Variation,burst_timing,6.4326525,-0.011118056411484117,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.3340165,0.006396694600806337,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Number of Active Electrodes,spike_activity,22.5,-0.025019501523908094,3
+83,NEG04,Negative,NEG04,B3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,2.1698885,0.020802485966985976,3
+84,NEG05,Negative,NEG05,A1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-1.7380899999999997,-0.001768285857030642,3
+84,NEG05,Negative,NEG05,A1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-1.0,0.0,3
+84,NEG05,Negative,NEG05,A1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,1.0,-0.057969262528543675,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.139191,-0.24999943254687995,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Burst Duration - Avg (s),burst,0.05474,-0.0034878872265970222,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Burst Percentage - Std,burst,44.648674,0.0002622728891394773,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0049675,-0.039744243582848594,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Median ISI within Burst - Std,burst_timing,0.001177,-0.0016755086387059213,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Network ISI Coefficient of Variation,burst_timing,9.603449,-0.0009911839125884873,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.20431749999999999,-0.0018474516820990404,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Number of Active Electrodes,spike_activity,12.5,0.022113784090443345,3
+84,NEG05,Negative,NEG05,A1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.5912965,-0.008869941549858559,3
+85,NEG05,Negative,NEG05,A2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-7.065628,-0.001125992575867311,3
+85,NEG05,Negative,NEG05,A2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-54.0,0.0,3
+85,NEG05,Negative,NEG05,A2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-23.0,0.04756528564590822,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0492305,0.12645104618018702,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Burst Duration - Avg (s),burst,0.0272645,-0.0018465644162562226,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Burst Percentage - Std,burst,20.20774,-0.0004654371214133757,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.003002,-0.021404935847277984,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Median ISI within Burst - Std,burst_timing,0.0013675,-0.00038892479475449905,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Network ISI Coefficient of Variation,burst_timing,3.532814,-0.0004175087954434997,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.1055195,-0.000718870524454999,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Number of Active Electrodes,spike_activity,6.0,0.026623701079990025,3
+85,NEG05,Negative,NEG05,A2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.5127315,-0.0072606120189582886,3
+86,NEG05,Negative,NEG05,A3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-6.326974999999999,-0.0013383901988466655,3
+86,NEG05,Negative,NEG05,A3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-7.0,0.0,3
+86,NEG05,Negative,NEG05,A3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-9.0,0.03604376709640578,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.070363,0.11035118665270231,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Burst Duration - Avg (s),burst,0.065332,-0.0023977670818567313,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Burst Percentage - Std,burst,37.000122,0.0005148152096404012,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.005862,-0.02448073459651184,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0016849999999999999,-0.0010953442486761888,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Network ISI Coefficient of Variation,burst_timing,5.3962955,-0.0006645475824673988,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.099407,-0.00029899980872869863,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Number of Active Electrodes,spike_activity,10.0,0.027826596417084893,3
+86,NEG05,Negative,NEG05,A3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.378241,-0.008490019098476125,3
+87,NEG05,Negative,NEG05,B1,0,Delta::Network ISI Coefficient of Variation,burst_timing,-7.580031999999999,-0.0015793866063985621,3
+87,NEG05,Negative,NEG05,B1,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,3.0,0.0,3
+87,NEG05,Negative,NEG05,B1,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,4.0,-0.05293436096118831,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.09502150000000001,0.009256461017799596,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Burst Duration - Avg (s),burst,0.0704075,-0.0033237872714245776,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Burst Percentage - Std,burst,44.963456,0.0007906433608796929,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0044475,-0.036155511587168336,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Median ISI within Burst - Std,burst_timing,0.0007210000000000001,-0.0025522123918765146,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Network ISI Coefficient of Variation,burst_timing,6.7448879999999996,-0.0008911922643030109,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.135768,-0.0015431761327717008,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Number of Active Electrodes,spike_activity,6.0,0.03270514495325861,3
+87,NEG05,Negative,NEG05,B1,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.40404,-0.008201213967469013,3
+88,NEG05,Negative,NEG05,B2,0,Delta::Network ISI Coefficient of Variation,burst_timing,-3.751742000000001,-0.0017626187177719954,3
+88,NEG05,Negative,NEG05,B2,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-2.0,0.0,3
+88,NEG05,Negative,NEG05,B2,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-1.0,-0.0571504816395679,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.108519,-0.24681387346030936,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Burst Duration - Avg (s),burst,0.053156999999999996,-0.0035111234419875717,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Burst Percentage - Std,burst,43.135587,0.0002317023360066913,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Median ISI within Burst - Avg,burst_timing,0.004804,-0.03988123635795933,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Median ISI within Burst - Std,burst_timing,0.002126,-0.0017530552680707634,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Network ISI Coefficient of Variation,burst_timing,6.455887000000001,-0.001017089553729252,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.293084,0.001341461410952932,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Number of Active Electrodes,spike_activity,11.5,0.030080779248641585,3
+88,NEG05,Negative,NEG05,B2,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.9630050000000001,0.0019274905841383666,3
+89,NEG05,Negative,NEG05,B3,0,Delta::Network ISI Coefficient of Variation,burst_timing,-1.9948520000000007,-0.0012297368642908554,3
+89,NEG05,Negative,NEG05,B3,0,Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,-11.0,0.0,3
+89,NEG05,Negative,NEG05,B3,0,Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,-8.0,0.03380935472194795,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0782935,0.10843140790411443,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Burst Duration - Avg (s),burst,0.0470585,-0.0018466813627768513,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Burst Percentage - Std,burst,32.746439,0.0004239304750053981,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Median ISI within Burst - Avg,burst_timing,0.0073805,-0.0193890782745762,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Median ISI within Burst - Std,burst_timing,0.0033864999999999998,-0.0008290769963490764,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Network ISI Coefficient of Variation,burst_timing,6.670601,-0.0006021779513469383,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Normalized Duration IQR - Avg,burst_timing,0.274229,0.0009324878264494518,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Number of Active Electrodes,spike_activity,13.0,0.022205551163534884,3
+89,NEG05,Negative,NEG05,B3,0,Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.7383165,-0.004178695339295597,3

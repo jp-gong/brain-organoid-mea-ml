@@ -1,0 +1,45 @@
+raw_feature,feature_family,parent_metric,preprocessing_rule
+Burst Duration - Avg (s),burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Burst Duration - Std (s),burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Burst Frequency - Avg (Hz),burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Burst Frequency - Std (Hz),burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Burst Percentage - Avg,burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Burst Percentage - Std,burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Mean ISI within Burst - Avg,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Mean ISI within Burst - Std,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Median ISI within Burst - Avg,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Median ISI within Burst - Std,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Number of Bursting Electrodes,burst,,AxIS structurally undefined values filled with 0
+Number of Bursts,burst,,AxIS structurally undefined values filled with 0
+Number of Spikes per Burst - Avg,burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Number of Spikes per Burst - Std,burst,Number of Bursts,AxIS structurally undefined values filled with 0
+Network Burst Duration - Avg (sec),network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Network Burst Duration - Std (sec),network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Network Burst Frequency (Hz),network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Network Burst Percentage,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Number of Elecs Participating in Burst - Avg,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Number of Elecs Participating in Burst - Std,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Number of Network Bursts,network_burst,,AxIS structurally undefined values filled with 0
+Number of Spikes per Network Burst - Avg,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Number of Spikes per Network Burst - Std,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Number of Spikes per Network Burst per Channel - Avg,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Number of Spikes per Network Burst per Channel - Std,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Network Normalized Duration IQR,network_burst,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Normalized Duration IQR - Avg,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Normalized Duration IQR - Std,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Mean Firing Rate (Hz),spike_activity,,AxIS structurally undefined values filled with 0
+Number of Active Electrodes,spike_activity,,AxIS structurally undefined values filled with 0
+Number of Spikes,spike_activity,,AxIS structurally undefined values filled with 0
+Weighted Mean Firing Rate (Hz),spike_activity,,AxIS structurally undefined values filled with 0
+Area Under Cross-Correlation,synchrony_correlation,Number of Active Electrodes,AxIS structurally undefined values filled with 0
+Area Under Normalized Cross-Correlation,synchrony_correlation,Number of Active Electrodes,AxIS structurally undefined values filled with 0
+Synchrony Index,synchrony_correlation,Number of Active Electrodes,AxIS structurally undefined values filled with 0
+Width at Half Height of Cross-Correlation,synchrony_correlation,Number of Active Electrodes,AxIS structurally undefined values filled with 0
+Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,Number of Active Electrodes,AxIS structurally undefined values filled with 0
+IBI Coefficient of Variation - Avg,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+IBI Coefficient of Variation - Std,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+ISI Coefficient of Variation - Avg,burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Inter-Burst Interval - Avg (s),burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Inter-Burst Interval - Std (s),burst_timing,Number of Bursts,AxIS structurally undefined values filled with 0
+Network IBI Coefficient of Variation,burst_timing,Number of Network Bursts,AxIS structurally undefined values filled with 0
+Network ISI Coefficient of Variation,burst_timing,Number of Network Bursts,AxIS structurally undefined values filled with 0

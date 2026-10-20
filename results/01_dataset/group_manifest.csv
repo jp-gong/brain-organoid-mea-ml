@@ -1,0 +1,16 @@
+class,pair_stem,group_id,n_paired_wells
+Negative,NEG01,NEG01,6
+Negative,NEG02,NEG02,6
+Negative,NEG03,NEG03,6
+Negative,NEG04,NEG04,6
+Negative,NEG05,NEG05,6
+Positive,POS01,POS01,6
+Positive,POS02,POS02,6
+Positive,POS03,POS03,6
+Positive,POS04,POS04,6
+Positive,POS05,POS05,6
+Positive,POS06,POS06,6
+Positive,POS07,POS07,6
+Positive,POS08,POS08,6
+Positive,POS09,POS09,6
+Positive,POS10,POS10,6

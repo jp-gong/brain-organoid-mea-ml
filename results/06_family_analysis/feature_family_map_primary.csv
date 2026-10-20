@@ -1,0 +1,89 @@
+feature_name,feature_family
+Mean::Burst Duration - Avg (s),burst
+Mean::Burst Duration - Std (s),burst
+Mean::Burst Frequency - Avg (Hz),burst
+Mean::Burst Frequency - Std (Hz),burst
+Mean::Burst Percentage - Avg,burst
+Mean::Burst Percentage - Std,burst
+Mean::Mean ISI within Burst - Avg,burst_timing
+Mean::Mean ISI within Burst - Std,burst_timing
+Mean::Median ISI within Burst - Avg,burst_timing
+Mean::Median ISI within Burst - Std,burst_timing
+Mean::Number of Bursting Electrodes,burst
+Mean::Number of Bursts,burst
+Mean::Number of Spikes per Burst - Avg,burst
+Mean::Number of Spikes per Burst - Std,burst
+Mean::Network Burst Duration - Avg (sec),network_burst
+Mean::Network Burst Duration - Std (sec),network_burst
+Mean::Network Burst Frequency (Hz),network_burst
+Mean::Network Burst Percentage,network_burst
+Mean::Number of Elecs Participating in Burst - Avg,network_burst
+Mean::Number of Elecs Participating in Burst - Std,network_burst
+Mean::Number of Network Bursts,network_burst
+Mean::Number of Spikes per Network Burst - Avg,network_burst
+Mean::Number of Spikes per Network Burst - Std,network_burst
+Mean::Number of Spikes per Network Burst per Channel - Avg,network_burst
+Mean::Number of Spikes per Network Burst per Channel - Std,network_burst
+Mean::Network Normalized Duration IQR,network_burst
+Mean::Normalized Duration IQR - Avg,burst_timing
+Mean::Normalized Duration IQR - Std,burst_timing
+Mean::Mean Firing Rate (Hz),spike_activity
+Mean::Number of Active Electrodes,spike_activity
+Mean::Number of Spikes,spike_activity
+Mean::Weighted Mean Firing Rate (Hz),spike_activity
+Mean::Area Under Cross-Correlation,synchrony_correlation
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation
+Mean::Synchrony Index,synchrony_correlation
+Mean::Width at Half Height of Cross-Correlation,synchrony_correlation
+Mean::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation
+Mean::IBI Coefficient of Variation - Avg,burst_timing
+Mean::IBI Coefficient of Variation - Std,burst_timing
+Mean::ISI Coefficient of Variation - Avg,burst_timing
+Mean::Inter-Burst Interval - Avg (s),burst_timing
+Mean::Inter-Burst Interval - Std (s),burst_timing
+Mean::Network IBI Coefficient of Variation,burst_timing
+Mean::Network ISI Coefficient of Variation,burst_timing
+Delta::Burst Duration - Avg (s),burst
+Delta::Burst Duration - Std (s),burst
+Delta::Burst Frequency - Avg (Hz),burst
+Delta::Burst Frequency - Std (Hz),burst
+Delta::Burst Percentage - Avg,burst
+Delta::Burst Percentage - Std,burst
+Delta::Mean ISI within Burst - Avg,burst_timing
+Delta::Mean ISI within Burst - Std,burst_timing
+Delta::Median ISI within Burst - Avg,burst_timing
+Delta::Median ISI within Burst - Std,burst_timing
+Delta::Number of Bursting Electrodes,burst
+Delta::Number of Bursts,burst
+Delta::Number of Spikes per Burst - Avg,burst
+Delta::Number of Spikes per Burst - Std,burst
+Delta::Network Burst Duration - Avg (sec),network_burst
+Delta::Network Burst Duration - Std (sec),network_burst
+Delta::Network Burst Frequency (Hz),network_burst
+Delta::Network Burst Percentage,network_burst
+Delta::Number of Elecs Participating in Burst - Avg,network_burst
+Delta::Number of Elecs Participating in Burst - Std,network_burst
+Delta::Number of Network Bursts,network_burst
+Delta::Number of Spikes per Network Burst - Avg,network_burst
+Delta::Number of Spikes per Network Burst - Std,network_burst
+Delta::Number of Spikes per Network Burst per Channel - Avg,network_burst
+Delta::Number of Spikes per Network Burst per Channel - Std,network_burst
+Delta::Network Normalized Duration IQR,network_burst
+Delta::Normalized Duration IQR - Avg,burst_timing
+Delta::Normalized Duration IQR - Std,burst_timing
+Delta::Mean Firing Rate (Hz),spike_activity
+Delta::Number of Active Electrodes,spike_activity
+Delta::Number of Spikes,spike_activity
+Delta::Weighted Mean Firing Rate (Hz),spike_activity
+Delta::Area Under Cross-Correlation,synchrony_correlation
+Delta::Area Under Normalized Cross-Correlation,synchrony_correlation
+Delta::Synchrony Index,synchrony_correlation
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation
+Delta::IBI Coefficient of Variation - Avg,burst_timing
+Delta::IBI Coefficient of Variation - Std,burst_timing
+Delta::ISI Coefficient of Variation - Avg,burst_timing
+Delta::Inter-Burst Interval - Avg (s),burst_timing
+Delta::Inter-Burst Interval - Std (s),burst_timing
+Delta::Network IBI Coefficient of Variation,burst_timing
+Delta::Network ISI Coefficient of Variation,burst_timing

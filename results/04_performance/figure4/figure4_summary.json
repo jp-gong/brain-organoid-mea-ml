@@ -1,0 +1,151 @@
+{
+  "training_random_state": 0,
+  "training_protocol_hash": "27095560ff27d67e390d6ef30ae1b05f",
+  "bootstrap_seed": 123,
+  "curve_band_seed": 2024,
+  "selected_model_name": "XGBoost",
+  "selected_feature_set": "mean+delta",
+  "selected_primary_pooled_metrics": {
+    "roc_auc": 0.9094444444444444,
+    "pr_auc": 0.9531639730277037,
+    "accuracy": 0.8555555555555555,
+    "balanced_accuracy": 0.8166666666666667,
+    "f1": 0.896,
+    "precision": 0.8615384615384616,
+    "recall": 0.9333333333333333,
+    "specificity": 0.7
+  },
+  "selected_primary_bootstrap_ci": [
+    {
+      "metric": "roc_auc",
+      "point_estimate": 0.9094444444444444,
+      "ci_low": 0.7668154761904762,
+      "ci_high": 0.9936973905723905
+    },
+    {
+      "metric": "pr_auc",
+      "point_estimate": 0.9531639730277037,
+      "ci_low": 0.8505644949196148,
+      "ci_high": 0.9982980681470199
+    },
+    {
+      "metric": "balanced_accuracy",
+      "point_estimate": 0.8166666666666667,
+      "ci_low": 0.6388888888888888,
+      "ci_high": 0.9642857142857143
+    },
+    {
+      "metric": "accuracy",
+      "point_estimate": 0.8555555555555555,
+      "ci_low": 0.7325000000000005,
+      "ci_high": 0.9666666666666667
+    },
+    {
+      "metric": "f1",
+      "point_estimate": 0.896,
+      "ci_low": 0.7618271221532091,
+      "ci_high": 0.976796642769715
+    },
+    {
+      "metric": "precision",
+      "point_estimate": 0.8615384615384616,
+      "ci_low": 0.6666666666666666,
+      "ci_high": 1.0
+    },
+    {
+      "metric": "recall",
+      "point_estimate": 0.9333333333333333,
+      "ci_low": 0.8333333333333334,
+      "ci_high": 1.0
+    },
+    {
+      "metric": "specificity",
+      "point_estimate": 0.7,
+      "ci_low": 0.3333333333333333,
+      "ci_high": 1.0
+    }
+  ],
+  "selected_model_feature_set_bootstrap_ci": [
+    {
+      "model_name": "XGBoost",
+      "feature_set": "mean+delta",
+      "metric": "accuracy",
+      "point_estimate": 0.8555555555555555,
+      "ci_low": 0.7325000000000005,
+      "ci_high": 0.9666666666666667
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "mean+delta",
+      "metric": "pr_auc",
+      "point_estimate": 0.9531639730277037,
+      "ci_low": 0.8505644949196148,
+      "ci_high": 0.9982980681470199
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "mean+delta",
+      "metric": "roc_auc",
+      "point_estimate": 0.9094444444444444,
+      "ci_low": 0.7668154761904762,
+      "ci_high": 0.9936973905723905
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "delta-only",
+      "metric": "accuracy",
+      "point_estimate": 0.8,
+      "ci_low": 0.6333333333333333,
+      "ci_high": 0.9333333333333333
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "delta-only",
+      "metric": "pr_auc",
+      "point_estimate": 0.9317037635485599,
+      "ci_low": 0.8146980993758636,
+      "ci_high": 0.9993412384716731
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "delta-only",
+      "metric": "roc_auc",
+      "point_estimate": 0.8727777777777778,
+      "ci_low": 0.710569234006734,
+      "ci_high": 0.9976921296296297
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "mfr-only",
+      "metric": "accuracy",
+      "point_estimate": 0.6666666666666666,
+      "ci_low": 0.45555555555555555,
+      "ci_high": 0.8555555555555555
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "mfr-only",
+      "metric": "pr_auc",
+      "point_estimate": 0.6735886086279657,
+      "ci_low": 0.4412596745860954,
+      "ci_high": 0.909426948201313
+    },
+    {
+      "model_name": "XGBoost",
+      "feature_set": "mfr-only",
+      "metric": "roc_auc",
+      "point_estimate": 0.495,
+      "ci_low": 0.38737035533910535,
+      "ci_high": 0.6358024691358024
+    }
+  ],
+  "n_oof_rows_selected_primary": 90,
+  "n_repeats": 3,
+  "n_outer_folds_per_repeat": 5,
+  "n_outer_fold_curves": 15,
+  "fold_curve_source": "oof_predictions_by_repeat.csv",
+  "pooled_curve_source": "oof_predictions_main.csv (mean probability per well)",
+  "curve_band": "pointwise 95% percentile interval; recording-group bootstrap of fixed OOF scores",
+  "bootstrap_note": "Conditional on fitted models and the selected combination; model selection and retraining are not repeated.",
+  "n_groups_selected_primary": 15
+}

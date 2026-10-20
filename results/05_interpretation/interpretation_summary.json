@@ -1,0 +1,36 @@
+{
+  "lineage": {
+    "training_bundle_sha256": "ad49200d44f26bee3ab5b00e4d2f40388f96fb161f3c100365135b7f24a8f91d",
+    "training_artifact_sha256": "fb15784059bca2e5abdbcb862f5e294bc6367b925e3ac018604835ef1b4c8f09",
+    "selected_model": "XGBoost",
+    "selected_feature_set": "mean+delta",
+    "n_repeats": 3,
+    "outer_n_splits": 5,
+    "training_random_state": 0,
+    "training_protocol_hash": "27095560ff27d67e390d6ef30ae1b05f"
+  },
+  "training_random_state": 0,
+  "selected_model_name": "XGBoost",
+  "selected_feature_set": "mean+delta",
+  "n_outer_folds": 15,
+  "n_repeats": 3,
+  "n_outer_folds_per_repeat": 5,
+  "n_unique_well_pairs": 90,
+  "n_heldout_evaluations": 270,
+  "shap_method": "PermutationExplainer, interventional masking, positive-class probability",
+  "shap_permutation_cycles_budget": 10,
+  "shap_max_evals_per_sample": "10 * (2 * number of retained features + 1)",
+  "shap_background": "all corresponding outer-training wells; fitted preprocessing only",
+  "shap_summary_unit": "one explanation per well, averaged across repeats",
+  "excluded_features": "zero contribution in folds where the feature was filtered out",
+  "max_additivity_error": 2.220446049250313e-16,
+  "max_saved_prediction_error": 0.0,
+  "library_versions": {
+    "shap": "0.48.0",
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "catboost": "1.2.8"
+  },
+  "n_shap_rows": 23760,
+  "n_top_feature_rows": 88
+}

@@ -1,0 +1,89 @@
+feature_name,feature_family,mean_abs_shap
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,0.147621796183812
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,0.06245080555183202
+Mean::Median ISI within Burst - Avg,burst_timing,0.03951030100749385
+Mean::Number of Active Electrodes,spike_activity,0.02784576934449104
+Delta::Network ISI Coefficient of Variation,burst_timing,0.016598034991702253
+Mean::Network ISI Coefficient of Variation,burst_timing,0.011975235071598787
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,0.009480251164051368
+Mean::Normalized Duration IQR - Avg,burst_timing,0.007909834741771897
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,0.006968647129098317
+Mean::Burst Percentage - Std,burst,0.006700473579761588
+Mean::Median ISI within Burst - Std,burst_timing,0.00631734578093536
+Mean::Burst Duration - Avg (s),burst,0.006038660833805154
+Mean::Network Burst Duration - Avg (sec),network_burst,0.002857312238990777
+Mean::Mean Firing Rate (Hz),spike_activity,0.002801457047936748
+Mean::Width at Half Height of Cross-Correlation,synchrony_correlation,0.002640788540578977
+Mean::Number of Spikes per Network Burst per Channel - Avg,network_burst,0.002494476958375123
+Delta::Burst Duration - Avg (s),burst,0.002367132432518552
+Mean::IBI Coefficient of Variation - Std,burst_timing,0.0023112532879185667
+Delta::Network Burst Percentage,network_burst,0.0021727971240222727
+Mean::Number of Spikes per Network Burst - Std,network_burst,0.002134795936879438
+Mean::Network Burst Percentage,network_burst,0.0020100631842048604
+Delta::Burst Duration - Std (s),burst,0.0019691546485350185
+Mean::ISI Coefficient of Variation - Avg,burst_timing,0.001914456476570718
+Delta::Area Under Cross-Correlation,synchrony_correlation,0.0018353977336844336
+Mean::Number of Elecs Participating in Burst - Avg,network_burst,0.0018172945337762401
+Mean::Burst Duration - Std (s),burst,0.0017588578738881094
+Delta::Inter-Burst Interval - Avg (s),burst_timing,0.0016929606034553615
+Mean::Synchrony Index,synchrony_correlation,0.0014940100559243052
+Mean::Area Under Cross-Correlation,synchrony_correlation,0.0014819198779854254
+Delta::Weighted Mean Firing Rate (Hz),spike_activity,0.0014313161723977317
+Delta::Synchrony Index,synchrony_correlation,0.0013813513985328637
+Delta::IBI Coefficient of Variation - Avg,burst_timing,0.0013485838065760828
+Mean::Number of Network Bursts,network_burst,0.001318635546004422
+Mean::Normalized Duration IQR - Std,burst_timing,0.0013142038277628707
+Mean::Network Burst Duration - Std (sec),network_burst,0.0013137124760896578
+Delta::Number of Bursts,burst,0.0012949075197433062
+Mean::Number of Spikes per Burst - Avg,burst,0.0012619666783512784
+Mean::Burst Percentage - Avg,burst,0.0011964323567542712
+Mean::Inter-Burst Interval - Std (s),burst_timing,0.0011460674113695562
+Mean::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,0.0010244468035626251
+Delta::Burst Percentage - Avg,burst,0.0009191799730336996
+Delta::Median ISI within Burst - Std,burst_timing,0.0009141063749926248
+Mean::Number of Spikes per Burst - Std,burst,0.0008763412130993471
+Delta::Number of Spikes per Burst - Avg,burst,0.0008700048135928407
+Delta::Area Under Normalized Cross-Correlation,synchrony_correlation,0.0008691548997892728
+Mean::Burst Frequency - Std (Hz),burst,0.0007474068641297778
+Delta::Burst Frequency - Avg (Hz),burst,0.000706851577375241
+Mean::Burst Frequency - Avg (Hz),burst,0.0006930531448791951
+Mean::IBI Coefficient of Variation - Avg,burst_timing,0.0006518956760894083
+Delta::Median ISI within Burst - Avg,burst_timing,0.0006330925117569224
+Mean::Number of Bursts,burst,0.0005998673585262448
+Mean::Inter-Burst Interval - Avg (s),burst_timing,0.0005167034144322639
+Delta::ISI Coefficient of Variation - Avg,burst_timing,0.0005038228221122674
+Mean::Network IBI Coefficient of Variation,burst_timing,0.0004818978449621969
+Delta::IBI Coefficient of Variation - Std,burst_timing,0.00036398795415137637
+Delta::Number of Active Electrodes,spike_activity,0.00035624038863068624
+Delta::Mean Firing Rate (Hz),spike_activity,0.00032493693403872837
+Delta::Normalized Duration IQR - Std,burst_timing,0.00017064126992551236
+Mean::Number of Elecs Participating in Burst - Std,network_burst,0.00012499440131793268
+Delta::Burst Percentage - Std,burst,9.143321772025521e-05
+Delta::Number of Spikes per Network Burst - Std,network_burst,8.554673515099256e-05
+Delta::Inter-Burst Interval - Std (s),burst_timing,8.534268689257514e-05
+Delta::Normalized Duration IQR - Avg,burst_timing,6.890535918006926e-05
+Delta::Network Burst Duration - Avg (sec),network_burst,6.198372865774113e-05
+Delta::Number of Spikes per Network Burst per Channel - Std,network_burst,5.881298979200093e-05
+Delta::Burst Frequency - Std (Hz),burst,3.450616554130985e-05
+Delta::Number of Bursting Electrodes,burst,2.0763290195185235e-05
+Delta::Number of Spikes,spike_activity,0.0
+Delta::Number of Network Bursts,network_burst,0.0
+Mean::Number of Spikes per Network Burst per Channel - Std,network_burst,0.0
+Mean::Number of Spikes per Network Burst - Avg,network_burst,0.0
+Delta::Number of Spikes per Burst - Std,burst,0.0
+Delta::Number of Spikes per Network Burst per Channel - Avg,network_burst,0.0
+Delta::Number of Spikes per Network Burst - Avg,network_burst,0.0
+Delta::Network Burst Duration - Std (sec),network_burst,0.0
+Mean::Mean ISI within Burst - Std,burst_timing,0.0
+Delta::Number of Elecs Participating in Burst - Avg,network_burst,0.0
+Delta::Network Normalized Duration IQR,network_burst,0.0
+Delta::Number of Elecs Participating in Burst - Std,network_burst,0.0
+Mean::Mean ISI within Burst - Avg,burst_timing,0.0
+Mean::Network Normalized Duration IQR,network_burst,0.0
+Delta::Network Burst Frequency (Hz),network_burst,0.0
+Delta::Network IBI Coefficient of Variation,burst_timing,0.0
+Mean::Network Burst Frequency (Hz),network_burst,0.0
+Mean::Number of Bursting Electrodes,burst,0.0
+Delta::Mean ISI within Burst - Std,burst_timing,0.0
+Delta::Mean ISI within Burst - Avg,burst_timing,0.0
+Mean::Number of Spikes,spike_activity,0.0

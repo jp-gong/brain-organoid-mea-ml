@@ -1,0 +1,54 @@
+{
+  "lineage": {
+    "training_bundle_sha256": "ad49200d44f26bee3ab5b00e4d2f40388f96fb161f3c100365135b7f24a8f91d",
+    "training_artifact_sha256": "fb15784059bca2e5abdbcb862f5e294bc6367b925e3ac018604835ef1b4c8f09",
+    "selected_model": "XGBoost",
+    "selected_feature_set": "mean+delta",
+    "n_repeats": 3,
+    "outer_n_splits": 5,
+    "training_random_state": 0,
+    "training_protocol_hash": "27095560ff27d67e390d6ef30ae1b05f"
+  },
+  "selected_model_name": "XGBoost",
+  "selected_feature_set": "mean+delta",
+  "plot_images": [
+    "fig5_shap_summary.png",
+    "fig5_shap_direction.png",
+    "fig5_family_ablation.png",
+    "fig5_single_family.png",
+    "fig5_error_overlap.png"
+  ],
+  "n_unique_wells": 90,
+  "n_outer_fits": 15,
+  "error_overlap": {
+    "definition": "size of intersection / size of union of misclassified-well sets",
+    "threshold": 0.5,
+    "aggregation": "one mean OOF probability per well across repeats",
+    "empty_union": "undefined (NA)",
+    "diagonal": "error counts; not color-coded",
+    "display": "strict lower triangle; diagonal counts; duplicate upper triangle blank",
+    "source_matrix": "full symmetric matrix retained in CSV",
+    "family_order": "same as the family-performance panels; no clustering",
+    "scope": "descriptive error overlap; threshold- and error-count-dependent; not proof of complementarity or integration benefit"
+  },
+  "probability_scale_shap": true,
+  "direction_metric": "Spearman(feature_value, signed positive-probability SHAP), separately within each outer held-out fold",
+  "direction_shap_constant_tolerance": 1e-12,
+  "direction_boxplot": "Q1-Q3 box, median, Tukey 1.5-IQR whiskers; every estimable fit shown including outliers",
+  "direction_undefined_handling": "undefined correlations kept as NaN with reason and counts; never assigned zero",
+  "direction_status_counts": {
+    "estimable": 135,
+    "constant_shap": 45
+  },
+  "direction_scope": "descriptive monotonic association, not coefficient/effect size/importance/causal effect; near-zero rho can hide non-monotonic patterns",
+  "direction_inference": "overlapping CV fits; no independence assumption, confidence intervals, or p-values",
+  "boxplot_whis": 1.5,
+  "direction_axis_limits": [
+    -1.08,
+    1.08
+  ],
+  "wells_removed_from_performance": 0,
+  "full_pooled_auroc": 0.9094444444444444,
+  "decision_threshold": 0.5,
+  "max_mean_additivity_error": 1.942890293094024e-16
+}

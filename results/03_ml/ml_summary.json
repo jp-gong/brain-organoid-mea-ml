@@ -1,0 +1,28 @@
+{
+  "random_state": 0,
+  "training_protocol_hash": "27095560ff27d67e390d6ef30ae1b05f",
+  "training_bundle_sha256": "ad49200d44f26bee3ab5b00e4d2f40388f96fb161f3c100365135b7f24a8f91d",
+  "export_sha256": {
+    "model_results_main.csv": "ce10e3f2bd20c51220033a638044b6a4ffa877ced11fad798e03931850962d92",
+    "outer_fold_metrics_main.csv": "93991b2a21adecef396bfc6e8ae175a42e7504de2d7db8b299f3ce133407005f",
+    "oof_predictions_main.csv": "4c139a2aa1f5bc6b6e0181591fea29b0a61af0fdf613bd0fc1d12fdceeba8a26",
+    "repeat_metrics_main.csv": "19125b40615fc73982ad18356b6a30b3e0fe5e24bb2b01f86d7e18cffdbfdcfa",
+    "oof_predictions_by_repeat.csv": "75dfc9211b0bc318a01010e89af2287ff541f92deb651a6e6c7d89cef60df911",
+    "nested_tuning_detail.csv": "f1d460f89aa1bec691144797927e205f78d408f6984efc54459c82703fd728d7",
+    "best_by_feature_set.csv": "1d72a8d51ccf47e8c7ce055be21d2c05d705f3f1862be7138df45e1dceb113b1",
+    "best_by_model.csv": "2846c437c4944d4a9909b865546d9d2e6062e64cc7b33101916bf7fb74356815",
+    "outer_fold_manifest.csv": "816975f0b2fc8731b79629761f24dfa4855da13bf435c4f06b1d47f35566d8a6",
+    "model_artifacts.joblib": "fb15784059bca2e5abdbcb862f5e294bc6367b925e3ac018604835ef1b4c8f09"
+  },
+  "selected_model_name": "XGBoost",
+  "selected_feature_set": "mean+delta",
+  "n_combinations_evaluated": 21,
+  "outer_n_splits": 5,
+  "n_repeats": 3,
+  "outer_split_seeds": [
+    0,
+    1,
+    2
+  ],
+  "oof_aggregation": "mean probability per sample across repeats; threshold 0.5"
+}

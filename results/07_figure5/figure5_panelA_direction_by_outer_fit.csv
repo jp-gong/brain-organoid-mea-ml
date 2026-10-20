@@ -1,0 +1,181 @@
+feature_name,feature_family,outer_fold_id,repeat_id,n_heldout_wells,n_recording_groups,n_finite_pairs,n_nonfinite_pairs,spearman_rho,direction_status,mean_abs_shap
+Delta::Network ISI Coefficient of Variation,burst_timing,1,1,18,3,18,0,0.7812177502579979,estimable,0.00266295809091793
+Delta::Network ISI Coefficient of Variation,burst_timing,2,1,18,3,18,0,0.762641898864809,estimable,0.01688472750434296
+Delta::Network ISI Coefficient of Variation,burst_timing,3,1,18,3,18,0,0.9504643962848297,estimable,0.01178309672747819
+Delta::Network ISI Coefficient of Variation,burst_timing,4,1,18,3,18,0,0.6160990712074303,estimable,0.003131842728773201
+Delta::Network ISI Coefficient of Variation,burst_timing,5,1,18,3,18,0,0.38493292053663575,estimable,0.03228881710962059
+Delta::Network ISI Coefficient of Variation,burst_timing,6,2,18,3,18,0,0.3787409700722394,estimable,0.0528991952648438
+Delta::Network ISI Coefficient of Variation,burst_timing,7,2,18,3,18,0,0.8761609907120743,estimable,0.029758911283203848
+Delta::Network ISI Coefficient of Variation,burst_timing,8,2,18,3,18,0,,constant_shap,0.0
+Delta::Network ISI Coefficient of Variation,burst_timing,9,2,18,3,18,0,0.6821465428276574,estimable,0.018805301709698487
+Delta::Network ISI Coefficient of Variation,burst_timing,10,2,18,3,18,0,,constant_shap,0.0
+Delta::Network ISI Coefficient of Variation,burst_timing,11,3,18,3,18,0,0.36016511867905054,estimable,0.0007700457036449226
+Delta::Network ISI Coefficient of Variation,burst_timing,12,3,18,3,18,0,0.9174406604747163,estimable,0.023575543138037947
+Delta::Network ISI Coefficient of Variation,burst_timing,13,3,18,3,18,0,0.7956656346749225,estimable,0.0068607705684068316
+Delta::Network ISI Coefficient of Variation,burst_timing,14,3,18,3,18,0,0.27554179566563464,estimable,0.05020252121957366
+Delta::Network ISI Coefficient of Variation,burst_timing,15,3,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,1,1,18,3,18,0,-0.6153063832577247,estimable,0.0033401169607208806
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,2,1,18,3,18,0,-0.6243550051599587,estimable,0.009986990681589999
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,3,1,18,3,18,0,-0.3869969040247678,estimable,0.009221689741092704
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,4,1,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,5,1,18,3,18,0,0.01756199284223111,estimable,0.020695459395704534
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,6,2,18,3,18,0,-0.04646360970248059,estimable,0.017005214728627007
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,7,2,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,8,2,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,9,2,18,3,18,0,-0.32421274325730903,estimable,0.008743894490539845
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,10,2,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,11,3,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,12,3,18,3,18,0,-0.7642208692898463,estimable,0.01600266912007808
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,13,3,18,3,18,0,-0.1991744066047472,estimable,0.006066365979818831
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,14,3,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Cross-Correlation,synchrony_correlation,15,3,18,3,18,0,-0.32301341589267285,estimable,0.013467305838302877
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,1,1,18,3,18,0,-0.8515289738923302,estimable,0.009036007589074198
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,2,1,18,3,18,0,-0.7929789389223354,estimable,0.08293515269929848
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,3,1,18,3,18,0,-0.4173555946036099,estimable,0.08282331820680865
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,4,1,18,3,18,0,-0.7176046387383114,estimable,0.036397393798041675
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,5,1,18,3,18,0,-0.8239546787239891,estimable,0.07854662786732301
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,6,2,18,3,18,0,-0.8204334365325078,estimable,0.11781624678980823
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,7,2,18,3,18,0,-0.4974157484822951,estimable,0.032319321276413064
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,8,2,18,3,18,0,,constant_shap,0.0
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,9,2,18,3,18,0,-0.6508267935650351,estimable,0.0641608122471766
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,10,2,18,3,18,0,-0.7871905026929473,estimable,0.08789167787712987
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,11,3,18,3,18,0,-0.4697987203250816,estimable,0.00937645648502641
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,12,3,18,3,18,0,-0.7683573827907386,estimable,0.1303356606758758
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,13,3,18,3,18,0,-0.6670128020188779,estimable,0.11361954545409615
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,14,3,18,3,18,0,-0.6718266253869969,estimable,0.0803387317519037
+Delta::Width at Half Height of Normalized Cross-Correlation,synchrony_correlation,15,3,18,3,18,0,-0.600630485799538,estimable,0.02458754523116866
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,1,1,18,3,18,0,-0.6305469556243549,estimable,0.10250136260472147
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,2,1,18,3,18,0,-0.9009287925696594,estimable,0.2672182190324141
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,3,1,18,3,18,0,-0.587203302373581,estimable,0.14735429723126192
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,4,1,18,3,18,0,-0.8307533539731682,estimable,0.11167575447176249
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,5,1,18,3,18,0,-0.826625386996904,estimable,0.10816450495945494
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,6,2,18,3,18,0,-0.696594427244582,estimable,0.16074126410800357
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,7,2,18,3,18,0,-0.7358101135190918,estimable,0.13384641847849166
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,8,2,18,3,18,0,-0.7950439882424457,estimable,0.15808071589879236
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,9,2,18,3,18,0,-0.8121775025799793,estimable,0.17434390308076722
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,10,2,18,3,18,0,-0.20330237358101136,estimable,0.16295534509239878
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,11,3,18,3,18,0,-0.9112487100103198,estimable,0.11321093732732591
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,12,3,18,3,18,0,-0.8018575851393188,estimable,0.15326515903702168
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,13,3,18,3,18,0,-0.6553147574819401,estimable,0.2004498816606945
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,14,3,18,3,18,0,-0.5727554179566564,estimable,0.15342278305130697
+Mean::Area Under Normalized Cross-Correlation,synchrony_correlation,15,3,18,3,18,0,-0.7069143446852425,estimable,0.09936035813326821
+Mean::Burst Duration - Avg (s),burst,1,1,18,3,18,0,0.7890399502951999,estimable,0.00275160986240263
+Mean::Burst Duration - Avg (s),burst,2,1,18,3,18,0,,constant_shap,0.0
+Mean::Burst Duration - Avg (s),burst,3,1,18,3,18,0,0.5211558307533539,estimable,0.005339352050681176
+Mean::Burst Duration - Avg (s),burst,4,1,18,3,18,0,,constant_shap,0.0
+Mean::Burst Duration - Avg (s),burst,5,1,18,3,18,0,0.890608875128999,estimable,0.017199192550550732
+Mean::Burst Duration - Avg (s),burst,6,2,18,3,18,0,0.5459236326109391,estimable,0.003054497372373402
+Mean::Burst Duration - Avg (s),burst,7,2,18,3,18,0,,constant_shap,0.0
+Mean::Burst Duration - Avg (s),burst,8,2,18,3,18,0,0.11042311661506708,estimable,0.0449796094030234
+Mean::Burst Duration - Avg (s),burst,9,2,18,3,18,0,0.4716202270381837,estimable,0.0010003773622030909
+Mean::Burst Duration - Avg (s),burst,10,2,18,3,18,0,,constant_shap,0.0
+Mean::Burst Duration - Avg (s),burst,11,3,18,3,18,0,0.3457172342621259,estimable,0.006894143505803786
+Mean::Burst Duration - Avg (s),burst,12,3,18,3,18,0,0.6236448946732951,estimable,0.006507132497341604
+Mean::Burst Duration - Avg (s),burst,13,3,18,3,18,0,0.632610939112487,estimable,0.005417096197898328
+Mean::Burst Duration - Avg (s),burst,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Burst Duration - Avg (s),burst,15,3,18,3,18,0,,constant_shap,0.0
+Mean::Burst Percentage - Std,burst,1,1,18,3,18,0,-0.4850062079796183,estimable,0.010435323480424698
+Mean::Burst Percentage - Std,burst,2,1,18,3,18,0,-0.8369453044375645,estimable,0.02050086952354989
+Mean::Burst Percentage - Std,burst,3,1,18,3,18,0,-0.9133126934984519,estimable,0.0029090419926186242
+Mean::Burst Percentage - Std,burst,4,1,18,3,18,0,,constant_shap,0.0
+Mean::Burst Percentage - Std,burst,5,1,18,3,18,0,-0.7027863777089782,estimable,0.017172860919230582
+Mean::Burst Percentage - Std,burst,6,2,18,3,18,0,,constant_shap,0.0
+Mean::Burst Percentage - Std,burst,7,2,18,3,18,0,-0.19504643962848298,estimable,0.015531416112603034
+Mean::Burst Percentage - Std,burst,8,2,18,3,18,0,,constant_shap,0.0
+Mean::Burst Percentage - Std,burst,9,2,18,3,18,0,-0.9112487100103198,estimable,0.00468644541688263
+Mean::Burst Percentage - Std,burst,10,2,18,3,18,0,0.8221320583023382,estimable,0.0017347132407680745
+Mean::Burst Percentage - Std,burst,11,3,18,3,18,0,0.2507739938080495,estimable,0.0003703598404464141
+Mean::Burst Percentage - Std,burst,12,3,18,3,18,0,-0.9499226872507144,estimable,0.00609386812246629
+Mean::Burst Percentage - Std,burst,13,3,18,3,18,0,,constant_shap,0.0
+Mean::Burst Percentage - Std,burst,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Burst Percentage - Std,burst,15,3,18,3,18,0,-0.5851393188854489,estimable,0.02393359091293848
+Mean::Median ISI within Burst - Avg,burst_timing,1,1,18,3,18,0,0.8345415988050149,estimable,0.009851600081418395
+Mean::Median ISI within Burst - Avg,burst_timing,2,1,18,3,18,0,0.6656346749226005,estimable,0.03430442440662717
+Mean::Median ISI within Burst - Avg,burst_timing,3,1,18,3,18,0,0.5727554179566564,estimable,0.11139751882407307
+Mean::Median ISI within Burst - Avg,burst_timing,4,1,18,3,18,0,0.7089783281733747,estimable,0.029299285828515334
+Mean::Median ISI within Burst - Avg,burst_timing,5,1,18,3,18,0,0.8472652218782251,estimable,0.038181999325967844
+Mean::Median ISI within Burst - Avg,burst_timing,6,2,18,3,18,0,0.5541795665634675,estimable,0.04511367437051736
+Mean::Median ISI within Burst - Avg,burst_timing,7,2,18,3,18,0,0.7461300309597524,estimable,0.03232086774732136
+Mean::Median ISI within Burst - Avg,burst_timing,8,2,18,3,18,0,,constant_shap,0.0
+Mean::Median ISI within Burst - Avg,burst_timing,9,2,18,3,18,0,0.3746130030959752,estimable,0.06621907738146636
+Mean::Median ISI within Burst - Avg,burst_timing,10,2,18,3,18,0,0.6897636262737855,estimable,0.031954702878669826
+Mean::Median ISI within Burst - Avg,burst_timing,11,3,18,3,18,0,0.717234262125903,estimable,0.018977482234024335
+Mean::Median ISI within Burst - Avg,burst_timing,12,3,18,3,18,0,0.7609706744606266,estimable,0.08647904753594993
+Mean::Median ISI within Burst - Avg,burst_timing,13,3,18,3,18,0,0.6491228070175438,estimable,0.04750621161728316
+Mean::Median ISI within Burst - Avg,burst_timing,14,3,18,3,18,0,0.6738906088751291,estimable,0.0424172319655801
+Mean::Median ISI within Burst - Avg,burst_timing,15,3,18,3,18,0,,constant_shap,0.0
+Mean::Median ISI within Burst - Std,burst_timing,1,1,18,3,18,0,0.7559478422880618,estimable,0.0025280744722687974
+Mean::Median ISI within Burst - Std,burst_timing,2,1,18,3,18,0,0.773360970381288,estimable,0.02881210511543121
+Mean::Median ISI within Burst - Std,burst_timing,3,1,18,3,18,0,-0.021671826625386997,estimable,0.00034070236746359874
+Mean::Median ISI within Burst - Std,burst_timing,4,1,18,3,18,0,,constant_shap,0.0
+Mean::Median ISI within Burst - Std,burst_timing,5,1,18,3,18,0,0.6367389060887513,estimable,0.024284517645252357
+Mean::Median ISI within Burst - Std,burst_timing,6,2,18,3,18,0,0.4633642930856553,estimable,0.005952423485139687
+Mean::Median ISI within Burst - Std,burst_timing,7,2,18,3,18,0,0.7750257997936018,estimable,0.006155179893988888
+Mean::Median ISI within Burst - Std,burst_timing,8,2,18,3,18,0,,constant_shap,0.0
+Mean::Median ISI within Burst - Std,burst_timing,9,2,18,3,18,0,0.5665634674922602,estimable,0.006933948774189682
+Mean::Median ISI within Burst - Std,burst_timing,10,2,18,3,18,0,0.7352652747836004,estimable,0.0035953647227106996
+Mean::Median ISI within Burst - Std,burst_timing,11,3,18,3,18,0,0.6174497467129644,estimable,0.0005278297412542676
+Mean::Median ISI within Burst - Std,burst_timing,12,3,18,3,18,0,0.8353124499845955,estimable,0.006685072648749302
+Mean::Median ISI within Burst - Std,burst_timing,13,3,18,3,18,0,0.5954592363261093,estimable,0.009931080033830196
+Mean::Median ISI within Burst - Std,burst_timing,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Median ISI within Burst - Std,burst_timing,15,3,18,3,18,0,,constant_shap,0.0
+Mean::Network ISI Coefficient of Variation,burst_timing,1,1,18,3,18,0,-0.45304437564499483,estimable,0.0027931833122339534
+Mean::Network ISI Coefficient of Variation,burst_timing,2,1,18,3,18,0,,constant_shap,0.0
+Mean::Network ISI Coefficient of Variation,burst_timing,3,1,18,3,18,0,-0.8637770897832818,estimable,0.006893363455023017
+Mean::Network ISI Coefficient of Variation,burst_timing,4,1,18,3,18,0,-0.762641898864809,estimable,0.0025441735356264246
+Mean::Network ISI Coefficient of Variation,burst_timing,5,1,18,3,18,0,-0.8988648090815273,estimable,0.03775498707351895
+Mean::Network ISI Coefficient of Variation,burst_timing,6,2,18,3,18,0,-0.8204334365325078,estimable,0.02363418656915863
+Mean::Network ISI Coefficient of Variation,burst_timing,7,2,18,3,18,0,-0.8018575851393188,estimable,0.023501635373305574
+Mean::Network ISI Coefficient of Variation,burst_timing,8,2,18,3,18,0,,constant_shap,0.0
+Mean::Network ISI Coefficient of Variation,burst_timing,9,2,18,3,18,0,-0.8637770897832818,estimable,0.005083618502500523
+Mean::Network ISI Coefficient of Variation,burst_timing,10,2,18,3,18,0,,constant_shap,0.0
+Mean::Network ISI Coefficient of Variation,burst_timing,11,3,18,3,18,0,0.17440660474716205,estimable,0.0012498644330067401
+Mean::Network ISI Coefficient of Variation,burst_timing,12,3,18,3,18,0,-0.8864809081527348,estimable,0.01005167823896045
+Mean::Network ISI Coefficient of Variation,burst_timing,13,3,18,3,18,0,-0.8018575851393188,estimable,0.00937087347466545
+Mean::Network ISI Coefficient of Variation,burst_timing,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Network ISI Coefficient of Variation,burst_timing,15,3,18,3,18,0,-0.8988648090815273,estimable,0.05813492432892047
+Mean::Normalized Duration IQR - Avg,burst_timing,1,1,18,3,18,0,,constant_shap,0.0
+Mean::Normalized Duration IQR - Avg,burst_timing,2,1,18,3,18,0,0.6566715182666474,estimable,0.04508036075883551
+Mean::Normalized Duration IQR - Avg,burst_timing,3,1,18,3,18,0,0.8301498266843199,estimable,0.004443954640746485
+Mean::Normalized Duration IQR - Avg,burst_timing,4,1,18,3,18,0,,constant_shap,0.0
+Mean::Normalized Duration IQR - Avg,burst_timing,5,1,18,3,18,0,0.8782249742002064,estimable,0.009430877065334907
+Mean::Normalized Duration IQR - Avg,burst_timing,6,2,18,3,18,0,0.19091847265221878,estimable,0.020994003273993665
+Mean::Normalized Duration IQR - Avg,burst_timing,7,2,18,3,18,0,,constant_shap,0.0
+Mean::Normalized Duration IQR - Avg,burst_timing,8,2,18,3,18,0,,constant_shap,0.0
+Mean::Normalized Duration IQR - Avg,burst_timing,9,2,18,3,18,0,0.5472380698292159,estimable,0.00038313157655252956
+Mean::Normalized Duration IQR - Avg,burst_timing,10,2,18,3,18,0,0.5329330238827291,estimable,0.0030615197083579374
+Mean::Normalized Duration IQR - Avg,burst_timing,11,3,18,3,18,0,0.7207874775304776,estimable,0.0005666574359767999
+Mean::Normalized Duration IQR - Avg,burst_timing,12,3,18,3,18,0,0.5985557690955673,estimable,0.017089588713960116
+Mean::Normalized Duration IQR - Avg,burst_timing,13,3,18,3,18,0,0.7651007731008471,estimable,0.018819560119192356
+Mean::Normalized Duration IQR - Avg,burst_timing,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Normalized Duration IQR - Avg,burst_timing,15,3,18,3,18,0,,constant_shap,0.0
+Mean::Number of Active Electrodes,spike_activity,1,1,18,3,18,0,-0.5665495537283478,estimable,0.029609386711438868
+Mean::Number of Active Electrodes,spike_activity,2,1,18,3,18,0,-0.7586572425427539,estimable,0.033810833059172256
+Mean::Number of Active Electrodes,spike_activity,3,1,18,3,18,0,-0.8447245704573862,estimable,0.023689957648906627
+Mean::Number of Active Electrodes,spike_activity,4,1,18,3,18,0,-0.330229335754787,estimable,0.043483571593799154
+Mean::Number of Active Electrodes,spike_activity,5,1,18,3,18,0,-0.8804995829676462,estimable,0.07056754646473565
+Mean::Number of Active Electrodes,spike_activity,6,2,18,3,18,0,,constant_shap,0.0
+Mean::Number of Active Electrodes,spike_activity,7,2,18,3,18,0,-0.4051684456086642,estimable,0.017587628391467863
+Mean::Number of Active Electrodes,spike_activity,8,2,18,3,18,0,-0.7857512663019496,estimable,0.04010277128215005
+Mean::Number of Active Electrodes,spike_activity,9,2,18,3,18,0,-0.9105954096460029,estimable,0.006260278506813869
+Mean::Number of Active Electrodes,spike_activity,10,2,18,3,18,0,0.3335081468016965,estimable,0.03343718591818793
+Mean::Number of Active Electrodes,spike_activity,11,3,18,3,18,0,-0.8124040771643115,estimable,0.004688135040119107
+Mean::Number of Active Electrodes,spike_activity,12,3,18,3,18,0,-0.7427689913861275,estimable,0.013109033124684498
+Mean::Number of Active Electrodes,spike_activity,13,3,18,3,18,0,-0.85994935394492,estimable,0.012704811064256244
+Mean::Number of Active Electrodes,spike_activity,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Number of Active Electrodes,spike_activity,15,3,18,3,18,0,-0.7881978252052517,estimable,0.09211754305690618
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,1,1,18,3,18,0,,constant_shap,0.0
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,2,1,18,3,18,0,0.5294117647058824,estimable,0.016283050237383755
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,3,1,18,3,18,0,0.44685242518059853,estimable,0.00482818860543409
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,4,1,18,3,18,0,0.7729618163054695,estimable,0.010901356045800597
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,5,1,18,3,18,0,0.7812177502579979,estimable,0.0170083041094462
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,6,2,18,3,18,0,0.7688338493292053,estimable,0.011915223818002151
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,7,2,18,3,18,0,,constant_shap,0.0
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,8,2,18,3,18,0,,constant_shap,0.0
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,9,2,18,3,18,0,0.20743034055727552,estimable,0.026850203857584683
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,10,2,18,3,18,0,,constant_shap,0.0
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,11,3,18,3,18,0,0.8452012383900928,estimable,0.007250913480917611
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,12,3,18,3,18,0,0.5335397316821465,estimable,0.02867763511008147
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,13,3,18,3,18,0,0.5830753353973168,estimable,0.019570202164978567
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,14,3,18,3,18,0,,constant_shap,0.0
+Mean::Weighted Mean Firing Rate (Hz),spike_activity,15,3,18,3,18,0,,constant_shap,0.0
